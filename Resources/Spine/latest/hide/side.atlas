@@ -1,0 +1,160 @@
+
+side.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CZ_Alatheia_Parts_02__0000_Eye_Open
+  rotate: false
+  xy: 698, 1491
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0001_Eye_Closed
+  rotate: false
+  xy: 488, 764
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0002_Head
+  rotate: false
+  xy: 1511, 1851
+  size: 201, 195
+  orig: 201, 195
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0003_Forearm_Front
+  rotate: true
+  xy: 2, 2
+  size: 166, 390
+  orig: 166, 390
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0004_Arm_Front
+  rotate: false
+  xy: 1047, 1761
+  size: 160, 248
+  orig: 160, 248
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0005_Hand_Front
+  rotate: false
+  xy: 161, 171
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0006_Neck
+  rotate: false
+  xy: 344, 279
+  size: 119, 138
+  orig: 119, 138
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0007_Torso
+  rotate: false
+  xy: 544, 804
+  size: 143, 268
+  orig: 143, 268
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0008_Skirt_Panel
+  rotate: true
+  xy: 1047, 2011
+  size: 35, 435
+  orig: 35, 435
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0009_Skirt_Front
+  rotate: false
+  xy: 698, 1519
+  size: 181, 527
+  orig: 181, 527
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0010_Shin_Front
+  rotate: false
+  xy: 544, 1074
+  size: 144, 373
+  orig: 144, 373
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0011_Thigh_Front
+  rotate: false
+  xy: 2, 170
+  size: 157, 614
+  orig: 157, 614
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0012_Foot_Front
+  rotate: false
+  xy: 881, 1530
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0013_Panties-for-Seungmin
+  rotate: false
+  xy: 1369, 1790
+  size: 140, 219
+  orig: 140, 219
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0014_Shin_Back
+  rotate: false
+  xy: 344, 419
+  size: 142, 365
+  orig: 142, 365
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0015_Thigh_Back
+  rotate: false
+  xy: 544, 1449
+  size: 152, 597
+  orig: 152, 597
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0016_Foot_Back
+  rotate: false
+  xy: 1714, 1928
+  size: 188, 118
+  orig: 188, 118
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0017_Skirt_Back
+  rotate: false
+  xy: 161, 261
+  size: 181, 523
+  orig: 181, 523
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0018_Forearm_Back
+  rotate: false
+  xy: 881, 1669
+  size: 164, 377
+  orig: 164, 377
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0019_Arm_Back
+  rotate: false
+  xy: 1209, 1764
+  size: 158, 245
+  orig: 158, 245
+  offset: 0, 0
+  index: -1
+CZ_Alatheia_Parts_02__0020_Hand_Back
+  rotate: true
+  xy: 1714, 1851
+  size: 75, 87
+  orig: 75, 87
+  offset: 0, 0
+  index: -1
+fullbody
+  rotate: false
+  xy: 2, 786
+  size: 540, 1260
+  orig: 540, 1260
+  offset: 0, 0
+  index: -1

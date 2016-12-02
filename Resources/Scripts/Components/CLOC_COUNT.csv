@@ -1,0 +1,19 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.70  T=0.50 s (36.0 files/s, 2080.0 lines/s)"
+Lua,.\PlayerController.lua,40,61,172
+Lua,.\Mekazoo.lua,11,3,61
+Lua,.\LevelClouds.lua,12,1,54
+Lua,.\LevelRocks.lua,13,1,54
+Lua,.\Yankable.lua,12,0,50
+Lua,.\FallingPlatform.lua,14,12,40
+Lua,.\FloatyRock.lua,11,8,34
+Lua,.\FloatyCloud.lua,13,8,34
+Lua,.\ElevatorPlatform.lua,11,1,34
+Lua,.\TestComponent.lua,15,14,29
+Lua,.\MainMenuAlatheia.lua,6,0,29
+Lua,.\BouncyPlatform.lua,12,10,23
+Lua,.\ParallaxComponent.lua,12,10,19
+Lua,.\LightUpDown.lua,12,2,18
+Lua,.\OlympusStart.lua,7,0,14
+Lua,.\RotationComponent.lua,8,0,10
+Lua,.\CleanScript.lua,7,0,8
+Lua,.\PlayerMekazooController.lua,4,0,6

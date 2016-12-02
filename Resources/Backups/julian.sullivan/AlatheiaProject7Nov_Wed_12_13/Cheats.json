@@ -1,0 +1,3 @@
+{
+	"if (Aubergine.Paused) then Aubergine.Paused = false elseif (not Aubergine.Paused) then Aubergine.Paused = true end" : "P"
+}

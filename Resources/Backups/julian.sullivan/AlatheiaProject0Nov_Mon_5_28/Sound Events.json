@@ -1,0 +1,183 @@
+{
+	"Checkpoint" : {
+		"1Name" : "Checkpoint",
+		"2Bank List" : {
+			"SFX Bank" : {
+				"1Name" : "SFX Bank",
+				"2EventName" : "event:/SFX/Environment/Checkpoint",
+				"3Parameters" : {}
+			}
+		}
+	},
+	"ExitButtonOver" : {
+		"1Name" : "ExitButtonOver",
+		"2Bank List" : {
+			"SFX Bank" : {
+				"1Name" : "SFX Bank",
+				"2EventName" : "event:/SFX/UI/MainMenu/MainMenu_HOVER",
+				"3Parameters" : {}
+			}
+		}
+	},
+	"FallingPlatform" : {
+		"1Name" : "FallingPlatform",
+		"2Bank List" : {
+			"SFX Bank" : {
+				"1Name" : "SFX Bank",
+				"2EventName" : "event:/SFX/Environment/FallingPlatform",
+				"3Parameters" : {}
+			}
+		}
+	},
+	"Footstep" : {
+		"1Name" : "Footstep",
+		"2Bank List" : {
+			"SFX Bank" : {
+				"1Name" : "SFX Bank",
+				"2EventName" : "event:/SFX/Alatheia/Alatheia_Footsteps",
+				"3Parameters" : {
+					"FootstepSurface" : {
+						"Default Value" : 1,
+						"Global Name" : "Floor",
+						"Uses Global" : true
+					}
+				}
+			}
+		}
+	},
+	"GrappleEnd" : {
+		"1Name" : "GrappleEnd"
+	},
+	"GrappleStart" : {
+		"1Name" : "GrappleStart",
+		"2Bank List" : {
+			"SFX Bank" : {
+				"1Name" : "SFX Bank",
+				"2EventName" : "",
+				"3Parameters" : {}
+			}
+		}
+	},
+	"Jump" : {
+		"1Name" : "Jump",
+		"2Bank List" : {
+			"SFX Bank" : {
+				"1Name" : "SFX Bank",
+				"2EventName" : "event:/SFX/Alatheia/Alatheia_Footsteps",
+				"3Parameters" : {
+					"FootstepSurface" : {
+						"Default Value" : 1,
+						"Global Name" : "Floor",
+						"Uses Global" : true
+					}
+				}
+			}
+		}
+	},
+	"MainMenuLoad" : {
+		"1Name" : "MainMenuLoad",
+		"2Bank List" : {
+			"AmbianceBank" : {
+				"1Name" : "AmbianceBank",
+				"2EventName" : "event:/Ambiance/MainMenu/MainMenu_Wind",
+				"3Parameters" : {}
+			},
+			"MusicBank" : {
+				"1Name" : "MusicBank",
+				"2EventName" : "event:/Music/Menu/Music_Menu",
+				"3Parameters" : {}
+			}
+		}
+	},
+	"MekazooFullCharge" : {
+		"1Name" : "MekazooFullCharge",
+		"2Bank List" : {
+			"SFX Bank" : {
+				"1Name" : "SFX Bank",
+				"2EventName" : "",
+				"3Parameters" : {}
+			}
+		}
+	},
+	"MekazooSpeedUp" : {
+		"1Name" : "MekazooSpeedUp",
+		"2Bank List" : {
+			"SFX Bank" : {
+				"1Name" : "SFX Bank",
+				"2EventName" : "",
+				"3Parameters" : {}
+			}
+		}
+	},
+	"OlympusLevelLoad" : {
+		"1Name" : "OlympusLevelLoad",
+		"2Bank List" : {
+			"AmbianceBank" : {
+				"1Name" : "AmbianceBank",
+				"2EventName" : "event:/Ambiance/MainMenu/MainMenu_Wind",
+				"3Parameters" : {}
+			},
+			"MusicBank" : {
+				"1Name" : "MusicBank",
+				"2EventName" : "event:/Music/LevelOne/Music_LevelOne",
+				"3Parameters" : {
+					"IsIntro" : {
+						"Default Value" : 0,
+						"Global Name" : "IsIntro",
+						"Uses Global" : true
+					},
+					"Pause" : {
+						"Default Value" : 0,
+						"Global Name" : "Paused",
+						"Uses Global" : true
+					},
+					"Progress" : {
+						"Default Value" : 0,
+						"Global Name" : "Music Power",
+						"Uses Global" : true
+					}
+				}
+			}
+		}
+	},
+	"PlayButtonDown" : {
+		"1Name" : "PlayButtonDown",
+		"2Bank List" : {
+			"SFX Bank" : {
+				"1Name" : "SFX Bank",
+				"2EventName" : "event:/SFX/UI/MainMenu/MainMenu_PLAY",
+				"3Parameters" : {}
+			}
+		}
+	},
+	"PlayButtonOver" : {
+		"1Name" : "PlayButtonOver",
+		"2Bank List" : {
+			"SFX Bank" : {
+				"1Name" : "SFX Bank",
+				"2EventName" : "event:/SFX/UI/MainMenu/MainMenu_HOVER",
+				"3Parameters" : {}
+			}
+		}
+	},
+	"UnderworldLoaded" : {
+		"1Name" : "UnderworldLoaded",
+		"2Bank List" : {
+			"AmbianceBank" : {
+				"1Name" : "AmbianceBank",
+				"2EventName" : "event:/Ambiance/MainMenu/MainMenu_Wind",
+				"3Parameters" : {}
+			}
+		}
+	},
+	"Wind" : {
+		"1Name" : "Wind",
+		"2Bank List" : {
+			"AmbianceBank" : {
+				"1Name" : "AmbianceBank",
+				"2EventName" : "event:/Ambiance/MainMenu/MainMenu_Wind",
+				"3Parameters" : {}
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"Game Title" : "Alatheia",
+	"Project Name" : "AlatheiaProject",
+	"Spaces" : {
+		"HUD Space" : "HUD Space",
+		"Main Menu" : "Main Menu",
+		"Olympus" : "Olympus"
+	},
+	"Version Number" : 27,
+	"ZInitial Level" : "Olympus"
+}

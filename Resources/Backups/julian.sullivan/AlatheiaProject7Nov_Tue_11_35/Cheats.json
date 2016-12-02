@@ -1,0 +1,4 @@
+{
+	"Aubergine:PushUserMessage(\"STOIHJS\")" : "Num0",
+	"Space:FindChild(\"Alatheia\").RigidBody:SetVelocityY(100)" : "T"
+}

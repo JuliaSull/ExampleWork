@@ -1,0 +1,863 @@
+{
+	"Alatheia1000001101" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"Lua Components" : {
+			"PlayerController" : "PlayerController"
+		},
+		"RigidBody" : {
+			"hasGravity_" : true,
+			"static_" : false
+		},
+		"SoundEmitter" : {},
+		"SpineComponent" : {
+			"Animated" : true,
+			"Mirrored" : false,
+			"animationName_" : "walk3",
+			"atlasName_" : "side",
+			"offset" : {
+				"g" : -0.37999999523162842,
+				"r" : 0,
+				"s" : 0,
+				"t" : -0.37999999523162842,
+				"x" : 0,
+				"y" : -0.37999999523162842
+			}
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"translation_" : {
+				"b" : 5,
+				"g" : 303.78109741210938,
+				"p" : 5,
+				"r" : -361.26229858398438,
+				"s" : -361.26229858398438,
+				"t" : 303.78109741210938,
+				"x" : -361.26229858398438,
+				"y" : 303.78109741210938,
+				"z" : 5
+			}
+		},
+		"mName" : "Alatheia"
+	},
+	"Dropped Object1000001110" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"textureFileName_" : "8bitukgjklsgjbnd copy.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 272.41583251953125,
+				"r" : 321.71649169921875,
+				"s" : 321.71649169921875,
+				"t" : 272.41583251953125,
+				"x" : 321.71649169921875,
+				"y" : 272.41583251953125
+			},
+			"translation_" : {
+				"b" : 1,
+				"g" : -309.73971557617188,
+				"p" : 1,
+				"r" : -353.6796875,
+				"s" : -353.6796875,
+				"t" : -309.73971557617188,
+				"x" : -353.6796875,
+				"y" : -309.73971557617188,
+				"z" : 1
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Ground1000001111" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 120,
+				"r" : 185,
+				"s" : 185,
+				"t" : 120,
+				"x" : 185,
+				"y" : 120
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"Lua Components" : {},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 153.77743530273438,
+				"r" : 214.34367370605469,
+				"s" : 214.34367370605469,
+				"t" : 153.77743530273438,
+				"x" : 214.34367370605469,
+				"y" : 153.77743530273438
+			},
+			"translation_" : {
+				"b" : 5,
+				"g" : -250,
+				"p" : 5,
+				"r" : -412.4849853515625,
+				"s" : -412.4849853515625,
+				"t" : -250,
+				"x" : -412.4849853515625,
+				"y" : -250,
+				"z" : 5
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground1000010000" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 120,
+				"r" : 185,
+				"s" : 185,
+				"t" : 120,
+				"x" : 185,
+				"y" : 120
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"Lua Components" : {},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 153.77743530273438,
+				"r" : 214.34367370605469,
+				"s" : 214.34367370605469,
+				"t" : 153.77743530273438,
+				"x" : 214.34367370605469,
+				"y" : 153.77743530273438
+			},
+			"translation_" : {
+				"b" : 5,
+				"g" : -250,
+				"p" : 5,
+				"r" : -226.19236755371094,
+				"s" : -226.19236755371094,
+				"t" : -250,
+				"x" : -226.19236755371094,
+				"y" : -250,
+				"z" : 5
+			}
+		},
+		"mName" : "Ground"
+	},
+	"MouseDebug1001110" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 0,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 0,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 0,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"textureFileName_" : "EditorUI\\RotationTool.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 60,
+				"g" : 0,
+				"p" : 60,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 60
+			}
+		},
+		"mName" : "MouseDebug"
+	},
+	"MouseDebug101" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 0,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 0,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 0,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"textureFileName_" : "EditorUI\\RotationTool.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 60,
+				"g" : 0,
+				"p" : 60,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 60
+			}
+		},
+		"mName" : "MouseDebug"
+	},
+	"MouseDebug101011110" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 0,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 0,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 0,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"textureFileName_" : "EditorUI\\RotationTool.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 60,
+				"g" : 0,
+				"p" : 60,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 60
+			}
+		},
+		"mName" : "MouseDebug"
+	},
+	"MouseDebug10111010" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 0,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 0,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 0,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"textureFileName_" : "EditorUI\\RotationTool.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 60,
+				"g" : 0,
+				"p" : 60,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 60
+			}
+		},
+		"mName" : "MouseDebug"
+	},
+	"MouseDebug110100010" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 0,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 0,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 0,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"textureFileName_" : "EditorUI\\RotationTool.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 60,
+				"g" : 0,
+				"p" : 60,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 60
+			}
+		},
+		"mName" : "MouseDebug"
+	},
+	"MouseDebug111101000" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 0,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 0,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 0,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"textureFileName_" : "EditorUI\\RotationTool.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 60,
+				"g" : 0,
+				"p" : 60,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 60
+			}
+		},
+		"mName" : "MouseDebug"
+	},
+	"MouseDebug11111110" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 0,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 0,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 0,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"textureFileName_" : "EditorUI\\RotationTool.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 60,
+				"g" : 0,
+				"p" : 60,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 60
+			}
+		},
+		"mName" : "MouseDebug"
+	},
+	"ToolObject100" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 0,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 0,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 0,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"textureFileName_" : "EditorUI\\EightWayTranslationTool.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 25,
+				"r" : 25,
+				"s" : 25,
+				"t" : 25,
+				"x" : 25,
+				"y" : 25
+			},
+			"translation_" : {
+				"b" : 40,
+				"g" : 0,
+				"p" : 40,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 40
+			}
+		},
+		"mName" : "ToolObject"
+	},
+	"ToolObject1001101" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 0,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 0,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 0,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"textureFileName_" : "EditorUI\\EightWayTranslationTool.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 149.59341430664063,
+				"r" : 149.59341430664063,
+				"s" : 149.59341430664063,
+				"t" : 149.59341430664063,
+				"x" : 149.59341430664063,
+				"y" : 149.59341430664063
+			},
+			"translation_" : {
+				"b" : 6.1999998092651367,
+				"g" : -94.035301208496094,
+				"p" : 6.1999998092651367,
+				"r" : 730.56536865234375,
+				"s" : 730.56536865234375,
+				"t" : -94.035301208496094,
+				"x" : 730.56536865234375,
+				"y" : -94.035301208496094,
+				"z" : 6.1999998092651367
+			}
+		},
+		"mName" : "ToolObject"
+	},
+	"ToolObject101011101" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 0,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 0,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 0,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"textureFileName_" : "EditorUI\\EightWayTranslationTool.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 153.77743530273438,
+				"r" : 153.77743530273438,
+				"s" : 153.77743530273438,
+				"t" : 153.77743530273438,
+				"x" : 153.77743530273438,
+				"y" : 153.77743530273438
+			},
+			"translation_" : {
+				"b" : 6,
+				"g" : -248.7073974609375,
+				"p" : 6,
+				"r" : -263.68521118164063,
+				"s" : -263.68521118164063,
+				"t" : -248.7073974609375,
+				"x" : -263.68521118164063,
+				"y" : -248.7073974609375,
+				"z" : 6
+			}
+		},
+		"mName" : "ToolObject"
+	},
+	"ToolObject10111001" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 0,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 0,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 0,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"textureFileName_" : "EditorUI\\EightWayTranslationTool.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"translation_" : {
+				"b" : 6,
+				"g" : 196.8463134765625,
+				"p" : 6,
+				"r" : -361.26229858398438,
+				"s" : -361.26229858398438,
+				"t" : 196.8463134765625,
+				"x" : -361.26229858398438,
+				"y" : 196.8463134765625,
+				"z" : 6
+			}
+		},
+		"mName" : "ToolObject"
+	},
+	"ToolObject110100001" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 0,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 0,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 0,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"textureFileName_" : "EditorUI\\EightWayTranslationTool.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 153.77743530273438,
+				"r" : 153.77743530273438,
+				"s" : 153.77743530273438,
+				"t" : 153.77743530273438,
+				"x" : 153.77743530273438,
+				"y" : 153.77743530273438
+			},
+			"translation_" : {
+				"b" : 6,
+				"g" : -250,
+				"p" : 6,
+				"r" : -412.4849853515625,
+				"s" : -412.4849853515625,
+				"t" : -250,
+				"x" : -412.4849853515625,
+				"y" : -250,
+				"z" : 6
+			}
+		},
+		"mName" : "ToolObject"
+	},
+	"ToolObject111100111" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"textureFileName_" : "EditorUI\\EightWayTranslationTool.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 153.77743530273438,
+				"r" : 153.77743530273438,
+				"s" : 153.77743530273438,
+				"t" : 153.77743530273438,
+				"x" : 153.77743530273438,
+				"y" : 153.77743530273438
+			},
+			"translation_" : {
+				"b" : 6,
+				"g" : -250,
+				"p" : 6,
+				"r" : -226.19236755371094,
+				"s" : -226.19236755371094,
+				"t" : -250,
+				"x" : -226.19236755371094,
+				"y" : -250,
+				"z" : 6
+			}
+		},
+		"mName" : "ToolObject"
+	},
+	"ToolObject11111101" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 0,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 0,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 0,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"textureFileName_" : "EditorUI\\EightWayTranslationTool.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 182.69317626953125,
+				"r" : 182.69317626953125,
+				"s" : 182.69317626953125,
+				"t" : 182.69317626953125,
+				"x" : 182.69317626953125,
+				"y" : 182.69317626953125
+			},
+			"translation_" : {
+				"b" : 6,
+				"g" : -232.63214111328125,
+				"p" : 6,
+				"r" : -361.6898193359375,
+				"s" : -361.6898193359375,
+				"t" : -232.63214111328125,
+				"x" : -361.6898193359375,
+				"y" : -232.63214111328125,
+				"z" : 6
+			}
+		},
+		"mName" : "ToolObject"
+	},
+	"mName" : "Underworld"
+}

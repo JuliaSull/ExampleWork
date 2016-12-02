@@ -1,0 +1,61 @@
+{
+	"LoseBackground100000001" : {
+		"Lua Components" : {
+			"FadeInOutWhite" : {
+				"FadeInTime" : {
+					"Data" : 1,
+					"Type" : "Integer"
+				},
+				"FadeOutTime" : {
+					"Data" : 1,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "CZ_Environment_01_04Background.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 2000,
+				"r" : 2000,
+				"s" : 2000,
+				"t" : 2000,
+				"x" : 2000,
+				"y" : 2000
+			},
+			"translation_" : {
+				"b" : 10,
+				"g" : 19.20037841796875,
+				"p" : 10,
+				"r" : 0,
+				"s" : 0,
+				"t" : 19.20037841796875,
+				"x" : 0,
+				"y" : 19.20037841796875,
+				"z" : 10
+			}
+		},
+		"mName" : "LoseBackground"
+	},
+	"mName" : "LoseScreen"
+}

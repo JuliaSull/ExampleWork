@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F bicep
+  rotate: true
+  xy: 2, 2
+  size: 148, 208
+  orig: 148, 208
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 614, 487
+  size: 184, 196
+  orig: 184, 196
+  offset: 0, 0
+  index: -1
+b foot
+  rotate: false
+  xy: 614, 685
+  size: 151, 333
+  orig: 151, 333
+  offset: 0, 0
+  index: -1
+b forearm
+  rotate: true
+  xy: 319, 118
+  size: 94, 167
+  orig: 94, 167
+  offset: 0, 0
+  index: -1
+b lowerleg
+  rotate: false
+  xy: 213, 137
+  size: 104, 355
+  orig: 104, 355
+  offset: 0, 0
+  index: -1
+b thigh
+  rotate: false
+  xy: 900, 672
+  size: 114, 346
+  orig: 114, 346
+  offset: 0, 0
+  index: -1
+bhand
+  rotate: true
+  xy: 457, 257
+  size: 51, 99
+  orig: 51, 99
+  offset: 0, 0
+  index: -1
+eyes close
+  rotate: false
+  xy: 800, 496
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+eyes open
+  rotate: true
+  xy: 271, 64
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+f arm
+  rotate: false
+  xy: 900, 463
+  size: 102, 207
+  orig: 102, 207
+  offset: 0, 0
+  index: -1
+f forearm
+  rotate: false
+  xy: 457, 310
+  size: 63, 222
+  orig: 63, 222
+  offset: 0, 0
+  index: -1
+ff lowerleg
+  rotate: false
+  xy: 767, 687
+  size: 131, 331
+  orig: 131, 331
+  offset: 0, 0
+  index: -1
+fhand
+  rotate: false
+  xy: 212, 21
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: -1
+front skirt base
+  rotate: false
+  xy: 264, 534
+  size: 262, 484
+  orig: 262, 484
+  offset: 0, 0
+  index: -1
+front skirt panel
+  rotate: false
+  xy: 528, 585
+  size: 84, 433
+  orig: 84, 433
+  offset: 0, 0
+  index: -1
+left foot
+  rotate: true
+  xy: 800, 533
+  size: 152, 98
+  orig: 152, 98
+  offset: 0, 0
+  index: -1
+left leg
+  rotate: false
+  xy: 319, 214
+  size: 136, 318
+  orig: 136, 318
+  offset: 0, 0
+  index: -1
+mouth neutral
+  rotate: false
+  xy: 264, 516
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+skirt back
+  rotate: false
+  xy: 2, 494
+  size: 260, 524
+  orig: 260, 524
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 2, 152
+  size: 209, 340
+  orig: 209, 340
+  offset: 0, 0
+  index: -1
