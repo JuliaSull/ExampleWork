@@ -1,6 +1,8 @@
 # ExampleWork
 Latest stable version of the editor and game for Alatheia
 
+Please note this only works on Windows OS!
+
 This project is the executable version of Alatheia. The installer is still being worked on for now.
 
 #Basic Functions
