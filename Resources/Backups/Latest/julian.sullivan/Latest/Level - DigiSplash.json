@@ -1,5 +1,5 @@
 {
-	"Alatheia11110" : {
+	"Alatheia1001" : {
 		"Lua Components" : {
 			"DigiSplash" : {
 				"CameraSize" : {
@@ -74,7 +74,7 @@
 		},
 		"mName" : "Alatheia"
 	},
-	"Dropped Object100000" : {
+	"Dropped Object1010" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -120,7 +120,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object100001" : {
+	"Dropped Object1011" : {
 		"Lua Components" : {
 			"LevelRocks" : {
 				"Target" : {
@@ -202,7 +202,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object100010" : {
+	"Dropped Object1100" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -248,7 +248,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object100011" : {
+	"Dropped Object1101" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -294,7 +294,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object100100" : {
+	"Dropped Object1110" : {
 		"Lua Components" : {
 			"LevelClouds" : {
 				"Target" : {
@@ -376,7 +376,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11111" : {
+	"Dropped Object1111" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,

@@ -1,0 +1,34 @@
+
+checkpoint.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 538
+  size: 1417, 1262
+  orig: 1417, 1262
+  offset: 0, 0
+  index: -1
+Forearm
+  rotate: false
+  xy: 2, 142
+  size: 113, 394
+  orig: 113, 394
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 2, 2
+  size: 61, 138
+  orig: 61, 138
+  offset: 0, 0
+  index: -1
+Upper Arm
+  rotate: false
+  xy: 1421, 1553
+  size: 112, 247
+  orig: 112, 247
+  offset: 0, 0
+  index: -1

@@ -18,7 +18,7 @@ function Initialize()
 end
 
 function PropertiesUpdate()
-	Aubergine:PushUserMessage("Properties Potato")
+	Aubergine:PushMessage("Properties Potato")
 	Owner.SpineComponent:SetSpineData(skeleton)
 	Owner.SpineComponent:SetAnimation(animation)
 end
@@ -60,8 +60,9 @@ function Update(updateEvent)
     local worldPlayerPos = Owner.Transform.Translation
 
     ----Find the offset of the arm
-    --armOffset = AubergineEngine.Vector2((worldMousePos.X - (worldPlayerPos.X)) * scale, (worldMousePos.Y - worldPlayerPos.Y) * scale + 0.4)
-    armOffset = Owner.SpineComponent:WorldToSpine(worldMousePos)
+    local scale = 0.02
+    armOffset = AubergineEngine.Vector2((worldMousePos.X - (worldPlayerPos.X)) * scale, (worldMousePos.Y - worldPlayerPos.Y) * scale + 0.4)
+    --armOffset = Owner.SpineComponent:WorldToSpine(worldMousePos)
 
     if Owner.SpineComponent.Mirrored then
       armOffset.X = -armOffset.X

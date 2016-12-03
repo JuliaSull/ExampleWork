@@ -1,0 +1,3230 @@
+{
+	"Alatheia10100" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"GrappleComponent" : {},
+		"Lua Components" : {
+			"OlympusStart" : {},
+			"PlayerController" : {
+				"idleanim" : {
+					"Data" : "idle1",
+					"Type" : "Animation"
+				},
+				"jumpanim" : {
+					"Data" : "Jump_Middle",
+					"Type" : "Animation"
+				},
+				"runanim" : {
+					"Data" : "sprint",
+					"Type" : "Animation"
+				},
+				"swinganim" : {
+					"Data" : "swingfinal",
+					"Type" : "Animation"
+				}
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : true,
+			"static_" : false
+		},
+		"SoundEmitter" : {},
+		"SpineComponent" : {
+			"Animated" : true,
+			"Mirrored" : false,
+			"atlasName_" : "skeleton",
+			"indexOfAnimation_" : 0,
+			"offset" : {
+				"g" : -0.5,
+				"r" : 0,
+				"s" : 0,
+				"t" : -0.5,
+				"x" : 0,
+				"y" : -0.5
+			},
+			"size" : 1000
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 5,
+				"g" : 340.43820190429688,
+				"p" : 5,
+				"r" : 292.53729248046875,
+				"s" : 292.53729248046875,
+				"t" : 340.43820190429688,
+				"x" : 292.53729248046875,
+				"y" : 340.43820190429688,
+				"z" : 5
+			}
+		},
+		"mName" : "Alatheia"
+	},
+	"CollisionBox10111" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 100,
+				"r" : 260,
+				"s" : 260,
+				"t" : 100,
+				"x" : 260,
+				"y" : 100
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 140.10411071777344,
+				"r" : 138.677734375,
+				"s" : 138.677734375,
+				"t" : 140.10411071777344,
+				"x" : 138.677734375,
+				"y" : 140.10411071777344
+			},
+			"translation_" : {
+				"b" : 5,
+				"g" : -150.1065673828125,
+				"p" : 5,
+				"r" : 2870.908935546875,
+				"s" : 2870.908935546875,
+				"t" : -150.1065673828125,
+				"x" : 2870.908935546875,
+				"y" : -150.1065673828125,
+				"z" : 5
+			}
+		},
+		"mName" : "CollisionBox"
+	},
+	"CollisionBox11000" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 40,
+				"r" : 270,
+				"s" : 270,
+				"t" : 40,
+				"x" : 270,
+				"y" : 40
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 33.250152587890625,
+				"r" : 9.76141357421875,
+				"s" : 9.76141357421875,
+				"t" : 33.250152587890625,
+				"x" : 9.76141357421875,
+				"y" : 33.250152587890625
+			},
+			"translation_" : {
+				"b" : 5,
+				"g" : -350.13983154296875,
+				"p" : 5,
+				"r" : -598.6995849609375,
+				"s" : -598.6995849609375,
+				"t" : -350.13983154296875,
+				"x" : -598.6995849609375,
+				"y" : -350.13983154296875,
+				"z" : 5
+			}
+		},
+		"mName" : "CollisionBox"
+	},
+	"CollisionBox11010" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 100,
+				"r" : 290,
+				"s" : 290,
+				"t" : 100,
+				"x" : 290,
+				"y" : 100
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 149.22616577148438,
+				"r" : 161.96539306640625,
+				"s" : 161.96539306640625,
+				"t" : 149.22616577148438,
+				"x" : 161.96539306640625,
+				"y" : 149.22616577148438
+			},
+			"translation_" : {
+				"b" : 5,
+				"g" : -118.8682861328125,
+				"p" : 5,
+				"r" : 1783.7490234375,
+				"s" : 1783.7490234375,
+				"t" : -118.8682861328125,
+				"x" : 1783.7490234375,
+				"y" : -118.8682861328125,
+				"z" : 5
+			}
+		},
+		"mName" : "CollisionBox"
+	},
+	"CollisionBox11011" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 100,
+				"r" : 260,
+				"s" : 260,
+				"t" : 100,
+				"x" : 260,
+				"y" : 100
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 140.10411071777344,
+				"r" : 138.677734375,
+				"s" : 138.677734375,
+				"t" : 140.10411071777344,
+				"x" : 138.677734375,
+				"y" : 140.10411071777344
+			},
+			"translation_" : {
+				"b" : 5,
+				"g" : -49.209648132324219,
+				"p" : 5,
+				"r" : 5849.79833984375,
+				"s" : 5849.79833984375,
+				"t" : -49.209648132324219,
+				"x" : 5849.79833984375,
+				"y" : -49.209648132324219,
+				"z" : 5
+			}
+		},
+		"mName" : "CollisionBox"
+	},
+	"Dropped Object100000" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "CZ_Environment_01_03Back.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 3000,
+				"r" : 10000,
+				"s" : 10000,
+				"t" : 3000,
+				"x" : 10000,
+				"y" : 3000
+			},
+			"translation_" : {
+				"b" : 1.0001000165939331,
+				"g" : -608.62017822265625,
+				"p" : 1.0001000165939331,
+				"r" : 3755.21240234375,
+				"s" : 3755.21240234375,
+				"t" : -608.62017822265625,
+				"x" : 3755.21240234375,
+				"y" : -608.62017822265625,
+				"z" : 1.0001000165939331
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object100001" : {
+		"Lua Components" : {
+			"LevelRocks" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 40,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 4,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 1,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "FloatingIsland.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 3,
+				"g" : 302.572265625,
+				"p" : 3,
+				"r" : -781.11029052734375,
+				"s" : -781.11029052734375,
+				"t" : 302.572265625,
+				"x" : -781.11029052734375,
+				"y" : 302.572265625,
+				"z" : 3
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object100010" : {
+		"Lua Components" : {
+			"LevelRocks" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 40,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 4,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 1,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "FloatingIsland.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 3,
+				"g" : 198.53030395507813,
+				"p" : 3,
+				"r" : -640.8797607421875,
+				"s" : -640.8797607421875,
+				"t" : 198.53030395507813,
+				"x" : -640.8797607421875,
+				"y" : 198.53030395507813,
+				"z" : 3
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object100011" : {
+		"Lua Components" : {
+			"LevelClouds" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 100,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 50,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 20,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "cloud_01.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 3,
+				"g" : 80.917724609375,
+				"p" : 3,
+				"r" : -982.4088134765625,
+				"s" : -982.4088134765625,
+				"t" : 80.917724609375,
+				"x" : -982.4088134765625,
+				"y" : 80.917724609375,
+				"z" : 3
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object100100" : {
+		"Lua Components" : {
+			"LevelRocks" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 40,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 4,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 1,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "FloatingIsland.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 3,
+				"g" : 302.572265625,
+				"p" : 3,
+				"r" : -713.2568359375,
+				"s" : -713.2568359375,
+				"t" : 302.572265625,
+				"x" : -713.2568359375,
+				"y" : 302.572265625,
+				"z" : 3
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object100110" : {
+		"Lua Components" : {
+			"LevelRocks" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 40,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 4,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 1,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "FloatingIsland.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 3,
+				"g" : 379.47283935546875,
+				"p" : 3,
+				"r" : -799.20452880859375,
+				"s" : -799.20452880859375,
+				"t" : 379.47283935546875,
+				"x" : -799.20452880859375,
+				"y" : 379.47283935546875,
+				"z" : 3
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object101000" : {
+		"Lua Components" : {
+			"LevelRocks" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 40,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 4,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 1,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "FloatingIsland.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 3,
+				"g" : 393.04351806640625,
+				"p" : 3,
+				"r" : -686.115478515625,
+				"s" : -686.115478515625,
+				"t" : 393.04351806640625,
+				"x" : -686.115478515625,
+				"y" : 393.04351806640625,
+				"z" : 3
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object101001" : {
+		"Lua Components" : {
+			"LevelClouds" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 100,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 50,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 20,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "cloud_01.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 3,
+				"g" : 62.823501586914063,
+				"p" : 3,
+				"r" : -880.628662109375,
+				"s" : -880.628662109375,
+				"t" : 62.823501586914063,
+				"x" : -880.628662109375,
+				"y" : 62.823501586914063,
+				"z" : 3
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object101010" : {
+		"Lua Components" : {
+			"LevelClouds" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 100,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 50,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 20,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "cloud_01.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 3,
+				"g" : 56.038139343261719,
+				"p" : 3,
+				"r" : -749.44537353515625,
+				"s" : -749.44537353515625,
+				"t" : 56.038139343261719,
+				"x" : -749.44537353515625,
+				"y" : 56.038139343261719,
+				"z" : 3
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object101011" : {
+		"Lua Components" : {
+			"LevelRocks" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 40,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 4,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 1,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "FloatingIsland.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 3,
+				"g" : 465.42050170898438,
+				"p" : 3,
+				"r" : -738.13641357421875,
+				"s" : -738.13641357421875,
+				"t" : 465.42050170898438,
+				"x" : -738.13641357421875,
+				"y" : 465.42050170898438,
+				"z" : 3
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object101100" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "CZ_Environment_01_02Middle.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 3500,
+				"r" : 10000,
+				"s" : 10000,
+				"t" : 3500,
+				"x" : 10000,
+				"y" : 3500
+			},
+			"translation_" : {
+				"b" : 1.0010000467300415,
+				"g" : -1156,
+				"p" : 1.0010000467300415,
+				"r" : 3733,
+				"s" : 3733,
+				"t" : -1156,
+				"x" : 3733,
+				"y" : -1156,
+				"z" : 1.0010000467300415
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object101101" : {
+		"Lua Components" : {
+			"LevelClouds" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 100,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 50,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 20,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "cloud_01.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 3,
+				"g" : -88.7158203125,
+				"p" : 3,
+				"r" : -896.4610595703125,
+				"s" : -896.4610595703125,
+				"t" : -88.7158203125,
+				"x" : -896.4610595703125,
+				"y" : -88.7158203125,
+				"z" : 3
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object101110" : {
+		"Lua Components" : {
+			"LevelClouds" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 100,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 50,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 20,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "cloud_01.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 3,
+				"g" : -6.33880615234375,
+				"p" : 3,
+				"r" : -925.86431884765625,
+				"s" : -925.86431884765625,
+				"t" : -6.33880615234375,
+				"x" : -925.86431884765625,
+				"y" : -6.33880615234375,
+				"z" : 3
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object101111" : {
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"x" : 1,
+				"y" : 1
+			},
+			"translation_" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object110000" : {
+		"Lua Components" : {
+			"LevelClouds" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 100,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 50,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 20,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "cloud_01.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 3,
+				"g" : 110.32081604003906,
+				"p" : 3,
+				"r" : -810.51336669921875,
+				"s" : -810.51336669921875,
+				"t" : 110.32081604003906,
+				"x" : -810.51336669921875,
+				"y" : 110.32081604003906,
+				"z" : 3
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object110001" : {
+		"Lua Components" : {
+			"LevelClouds" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 100,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 50,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 20,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "cloud_01.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 3,
+				"g" : -34.433120727539063,
+				"p" : 3,
+				"r" : -844.4400634765625,
+				"s" : -844.4400634765625,
+				"t" : -34.433120727539063,
+				"x" : -844.4400634765625,
+				"y" : -34.433120727539063,
+				"z" : 3
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object11100" : {
+		"Lua Components" : {
+			"LevelClouds" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 100,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 50,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 20,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "cloud_01.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"x" : 1,
+				"y" : 1
+			},
+			"translation_" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object11101" : {
+		"Lua Components" : {
+			"LevelRocks" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 40,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 4,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 1,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "FloatingIsland.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 3,
+				"g" : 198.53030395507813,
+				"p" : 3,
+				"r" : -769.80126953125,
+				"s" : -769.80126953125,
+				"t" : 198.53030395507813,
+				"x" : -769.80126953125,
+				"y" : 198.53030395507813,
+				"z" : 3
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object11110" : {
+		"Lua Components" : {
+			"LevelClouds" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 100,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 50,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 20,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "cloud_01.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object11111" : {
+		"Lua Components" : {
+			"LevelRocks" : {
+				"Target" : {
+					"Data" : "Alatheia",
+					"Type" : "Cog"
+				},
+				"distFromPlayer" : {
+					"Data" : 520,
+					"Type" : "Integer"
+				},
+				"randomScaleXMax" : {
+					"Data" : 40,
+					"Type" : "Integer"
+				},
+				"randomScaleXMin" : {
+					"Data" : 10,
+					"Type" : "Integer"
+				},
+				"randomScatterYMax" : {
+					"Data" : 250,
+					"Type" : "Integer"
+				},
+				"randomScatterYMin" : {
+					"Data" : -250,
+					"Type" : "Integer"
+				},
+				"randomSpeedMax" : {
+					"Data" : 4,
+					"Type" : "Integer"
+				},
+				"randomSpeedMin" : {
+					"Data" : 1,
+					"Type" : "Integer"
+				}
+			}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "FloatingIsland.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 3,
+				"g" : 293.52508544921875,
+				"p" : 3,
+				"r" : -55.7490234375,
+				"s" : -55.7490234375,
+				"t" : 293.52508544921875,
+				"x" : -55.7490234375,
+				"y" : 293.52508544921875,
+				"z" : 3
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Ground1000000" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Platform_2.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 53.088504791259766,
+				"r" : 47.8131103515625,
+				"s" : 47.8131103515625,
+				"t" : 53.088504791259766,
+				"x" : 47.8131103515625,
+				"y" : 53.088504791259766
+			},
+			"translation_" : {
+				"b" : 4,
+				"g" : 97.290328979492188,
+				"p" : 4,
+				"r" : 4992.58984375,
+				"s" : 4992.58984375,
+				"t" : 97.290328979492188,
+				"x" : 4992.58984375,
+				"y" : 97.290328979492188,
+				"z" : 4
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground1000001" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Platform_2.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 53.088504791259766,
+				"r" : 47.8131103515625,
+				"s" : 47.8131103515625,
+				"t" : 53.088504791259766,
+				"x" : 47.8131103515625,
+				"y" : 53.088504791259766
+			},
+			"translation_" : {
+				"b" : 4,
+				"g" : 97.290328979492188,
+				"p" : 4,
+				"r" : 5455.2919921875,
+				"s" : 5455.2919921875,
+				"t" : 97.290328979492188,
+				"x" : 5455.2919921875,
+				"y" : 97.290328979492188,
+				"z" : 4
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground1000010" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Platform_2.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 53.088504791259766,
+				"r" : 47.8131103515625,
+				"s" : 47.8131103515625,
+				"t" : 53.088504791259766,
+				"x" : 47.8131103515625,
+				"y" : 53.088504791259766
+			},
+			"translation_" : {
+				"b" : 4,
+				"g" : 97.0888671875,
+				"p" : 4,
+				"r" : 3400.208251953125,
+				"s" : 3400.208251953125,
+				"t" : 97.0888671875,
+				"x" : 3400.208251953125,
+				"y" : 97.0888671875,
+				"z" : 4
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground1000011" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Platform_2.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 53.088504791259766,
+				"r" : 47.8131103515625,
+				"s" : 47.8131103515625,
+				"t" : 53.088504791259766,
+				"x" : 47.8131103515625,
+				"y" : 53.088504791259766
+			},
+			"translation_" : {
+				"b" : 4,
+				"g" : 85.474227905273438,
+				"p" : 4,
+				"r" : 3980.93994140625,
+				"s" : 3980.93994140625,
+				"t" : 85.474227905273438,
+				"x" : 3980.93994140625,
+				"y" : 85.474227905273438,
+				"z" : 4
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground1000100" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Platform_2.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 53.088504791259766,
+				"r" : 47.8131103515625,
+				"s" : 47.8131103515625,
+				"t" : 53.088504791259766,
+				"x" : 47.8131103515625,
+				"y" : 53.088504791259766
+			},
+			"translation_" : {
+				"b" : 4,
+				"g" : 97.290328979492188,
+				"p" : 4,
+				"r" : 4509.54931640625,
+				"s" : 4509.54931640625,
+				"t" : 97.290328979492188,
+				"x" : 4509.54931640625,
+				"y" : 97.290328979492188,
+				"z" : 4
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground1000101" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Floating_island_03.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 266.596923828125,
+				"r" : 365.340576171875,
+				"s" : 365.340576171875,
+				"t" : 266.596923828125,
+				"x" : 365.340576171875,
+				"y" : 266.596923828125
+			},
+			"translation_" : {
+				"b" : 4,
+				"g" : -52.294109344482422,
+				"p" : 4,
+				"r" : 5877.8173828125,
+				"s" : 5877.8173828125,
+				"t" : -52.294109344482422,
+				"x" : 5877.8173828125,
+				"y" : -52.294109344482422,
+				"z" : 4
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground110010" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Platform_2.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 53.088504791259766,
+				"r" : 47.8131103515625,
+				"s" : 47.8131103515625,
+				"t" : 53.088504791259766,
+				"x" : 47.8131103515625,
+				"y" : 53.088504791259766
+			},
+			"translation_" : {
+				"b" : 4,
+				"g" : 148.01747131347656,
+				"p" : 4,
+				"r" : 2393.13037109375,
+				"s" : 2393.13037109375,
+				"t" : 148.01747131347656,
+				"x" : 2393.13037109375,
+				"y" : 148.01747131347656,
+				"z" : 4
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground110100" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "FloatingIsland.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 273.04241943359375,
+				"r" : 314.90478515625,
+				"s" : 314.90478515625,
+				"t" : 273.04241943359375,
+				"x" : 314.90478515625,
+				"y" : 273.04241943359375
+			},
+			"translation_" : {
+				"b" : 4,
+				"g" : -190.89178466796875,
+				"p" : 4,
+				"r" : 1797.58935546875,
+				"s" : 1797.58935546875,
+				"t" : -190.89178466796875,
+				"x" : 1797.58935546875,
+				"y" : -190.89178466796875,
+				"z" : 4
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground110101" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Floating_island_03.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 266.596923828125,
+				"r" : 365.340576171875,
+				"s" : 365.340576171875,
+				"t" : 266.596923828125,
+				"x" : 365.340576171875,
+				"y" : 266.596923828125
+			},
+			"translation_" : {
+				"b" : 4,
+				"g" : -149.39332580566406,
+				"p" : 4,
+				"r" : 2897.045654296875,
+				"s" : 2897.045654296875,
+				"t" : -149.39332580566406,
+				"x" : 2897.045654296875,
+				"y" : -149.39332580566406,
+				"z" : 4
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground110110" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Platform_2.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 53.088504791259766,
+				"r" : 47.8131103515625,
+				"s" : 47.8131103515625,
+				"t" : 53.088504791259766,
+				"x" : 47.8131103515625,
+				"y" : 53.088504791259766
+			},
+			"translation_" : {
+				"b" : 4,
+				"g" : 144.83274841308594,
+				"p" : 4,
+				"r" : 1424.970703125,
+				"s" : 1424.970703125,
+				"t" : 144.83274841308594,
+				"x" : 1424.970703125,
+				"y" : 144.83274841308594,
+				"z" : 4
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground110111" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Platform_2.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 53.088504791259766,
+				"r" : 47.8131103515625,
+				"s" : 47.8131103515625,
+				"t" : 53.088504791259766,
+				"x" : 47.8131103515625,
+				"y" : 53.088504791259766
+			},
+			"translation_" : {
+				"b" : 4,
+				"g" : 975.39349365234375,
+				"p" : 4,
+				"r" : 1621.675048828125,
+				"s" : 1621.675048828125,
+				"t" : 975.39349365234375,
+				"x" : 1621.675048828125,
+				"y" : 975.39349365234375,
+				"z" : 4
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground111000" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Platform_2.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 53.088504791259766,
+				"r" : 47.8131103515625,
+				"s" : 47.8131103515625,
+				"t" : 53.088504791259766,
+				"x" : 47.8131103515625,
+				"y" : 53.088504791259766
+			},
+			"translation_" : {
+				"b" : 4,
+				"g" : 1301.874755859375,
+				"p" : 4,
+				"r" : 1215.003173828125,
+				"s" : 1215.003173828125,
+				"t" : 1301.874755859375,
+				"x" : 1215.003173828125,
+				"y" : 1301.874755859375,
+				"z" : 4
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground111001" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Platform_2.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 53.088504791259766,
+				"r" : 47.8131103515625,
+				"s" : 47.8131103515625,
+				"t" : 53.088504791259766,
+				"x" : 47.8131103515625,
+				"y" : 53.088504791259766
+			},
+			"translation_" : {
+				"b" : 4,
+				"g" : 1742.3267822265625,
+				"p" : 4,
+				"r" : 1656.0076904296875,
+				"s" : 1656.0076904296875,
+				"t" : 1742.3267822265625,
+				"x" : 1656.0076904296875,
+				"y" : 1742.3267822265625,
+				"z" : 4
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground111010" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Platform_2.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 53.088504791259766,
+				"r" : 47.8131103515625,
+				"s" : 47.8131103515625,
+				"t" : 53.088504791259766,
+				"x" : 47.8131103515625,
+				"y" : 53.088504791259766
+			},
+			"translation_" : {
+				"b" : 4,
+				"g" : 2088.3388671875,
+				"p" : 4,
+				"r" : 1267.1015625,
+				"s" : 1267.1015625,
+				"t" : 2088.3388671875,
+				"x" : 1267.1015625,
+				"y" : 2088.3388671875,
+				"z" : 4
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground111011" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Platform_2.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 53.088504791259766,
+				"r" : 47.8131103515625,
+				"s" : 47.8131103515625,
+				"t" : 53.088504791259766,
+				"x" : 47.8131103515625,
+				"y" : 53.088504791259766
+			},
+			"translation_" : {
+				"b" : 4,
+				"g" : 2457.227783203125,
+				"p" : 4,
+				"r" : 1673.1651611328125,
+				"s" : 1673.1651611328125,
+				"t" : 2457.227783203125,
+				"x" : 1673.1651611328125,
+				"y" : 2457.227783203125,
+				"z" : 4
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground111101" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "8bitukgjklsgjbnd copy.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 149.22616577148438,
+				"r" : 161.96539306640625,
+				"s" : 161.96539306640625,
+				"t" : 149.22616577148438,
+				"x" : 161.96539306640625,
+				"y" : 149.22616577148438
+			},
+			"translation_" : {
+				"b" : 1,
+				"g" : -113.51579284667969,
+				"p" : 1,
+				"r" : -48.949150085449219,
+				"s" : -48.949150085449219,
+				"t" : -113.51579284667969,
+				"x" : -48.949150085449219,
+				"y" : -113.51579284667969,
+				"z" : 1
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Ground111110" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : true,
+			"shaderFile_" : "",
+			"textureFileName_" : "Platform_2.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"x" : 1,
+				"y" : 1
+			},
+			"translation_" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"mName" : "Ground"
+	},
+	"Island11000110" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "FloatingIsland.png"
+		},
+		"Transform" : {
+			"rotation_" : 3.1415901184082031,
+			"scale_" : {
+				"g" : 770.0396728515625,
+				"r" : 711.3944091796875,
+				"s" : 711.3944091796875,
+				"t" : 770.0396728515625,
+				"x" : 711.3944091796875,
+				"y" : 770.0396728515625
+			},
+			"translation_" : {
+				"b" : 2,
+				"g" : 939.1658935546875,
+				"p" : 2,
+				"r" : 426.2286376953125,
+				"s" : 426.2286376953125,
+				"t" : 939.1658935546875,
+				"x" : 426.2286376953125,
+				"y" : 939.1658935546875,
+				"z" : 2
+			}
+		},
+		"mName" : "Island1"
+	},
+	"Island11100011" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : true,
+			"shaderFile_" : "",
+			"textureFileName_" : "FloatingIsland.png"
+		},
+		"Transform" : {
+			"rotation_" : 3.1415901184082031,
+			"scale_" : {
+				"g" : 770.0396728515625,
+				"r" : 711.3944091796875,
+				"s" : 711.3944091796875,
+				"t" : 770.0396728515625,
+				"x" : 711.3944091796875,
+				"y" : 770.0396728515625
+			},
+			"translation_" : {
+				"b" : 2.0999999046325684,
+				"g" : 928.81597900390625,
+				"p" : 2.0999999046325684,
+				"r" : 788.4798583984375,
+				"s" : 788.4798583984375,
+				"t" : 928.81597900390625,
+				"x" : 788.4798583984375,
+				"y" : 928.81597900390625,
+				"z" : 2.0999999046325684
+			}
+		},
+		"mName" : "Island1"
+	},
+	"Island21000111" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Floating_island_03.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 586.151611328125,
+				"r" : 574.9639892578125,
+				"s" : 574.9639892578125,
+				"t" : 586.151611328125,
+				"x" : 574.9639892578125,
+				"y" : 586.151611328125
+			},
+			"translation_" : {
+				"b" : 2,
+				"g" : 193.48454284667969,
+				"p" : 2,
+				"r" : 363.669189453125,
+				"s" : 363.669189453125,
+				"t" : 193.48454284667969,
+				"x" : 363.669189453125,
+				"y" : 193.48454284667969,
+				"z" : 2
+			}
+		},
+		"mName" : "Island2"
+	},
+	"Mountains1001000" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "CZ_Environment_01_01Front.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 2810.489990234375,
+				"r" : 9419.0224609375,
+				"s" : 9419.0224609375,
+				"t" : 2810.489990234375,
+				"x" : 9419.0224609375,
+				"y" : 2810.489990234375
+			},
+			"translation_" : {
+				"b" : 1.0099999904632568,
+				"g" : -1748.5211181640625,
+				"p" : 1.0099999904632568,
+				"r" : 4073.39306640625,
+				"s" : 4073.39306640625,
+				"t" : -1748.5211181640625,
+				"x" : 4073.39306640625,
+				"y" : -1748.5211181640625,
+				"z" : 1.0099999904632568
+			}
+		},
+		"mName" : "Mountains"
+	},
+	"Mountains1001001" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "CZ_Environment_01_01Front.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 2826.759033203125,
+				"r" : 9505.248046875,
+				"s" : 9505.248046875,
+				"t" : 2826.759033203125,
+				"x" : 9505.248046875,
+				"y" : 2826.759033203125
+			},
+			"translation_" : {
+				"b" : 1.0099999904632568,
+				"g" : -1740.3865966796875,
+				"p" : 1.0099999904632568,
+				"r" : 4030.2802734375,
+				"s" : 4030.2802734375,
+				"t" : -1740.3865966796875,
+				"x" : 4030.2802734375,
+				"y" : -1740.3865966796875,
+				"z" : 1.0099999904632568
+			}
+		},
+		"mName" : "Mountains"
+	},
+	"SKy1001011" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "CZ_Environment_01_04Background.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 3888.589111328125,
+				"r" : 10000,
+				"s" : 10000,
+				"t" : 3888.589111328125,
+				"x" : 10000,
+				"y" : 3888.589111328125
+			},
+			"translation_" : {
+				"b" : 1,
+				"g" : 1119.1878662109375,
+				"p" : 1,
+				"r" : 3737.375,
+				"s" : 3737.375,
+				"t" : 1119.1878662109375,
+				"x" : 3737.375,
+				"y" : 1119.1878662109375,
+				"z" : 1
+			}
+		},
+		"mName" : "SKy"
+	},
+	"Square1010000" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "defaultsquare.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"translation_" : {
+				"b" : 1,
+				"g" : -284.88861083984375,
+				"p" : 1,
+				"r" : -28.961387634277344,
+				"s" : -28.961387634277344,
+				"t" : -284.88861083984375,
+				"x" : -28.961387634277344,
+				"y" : -284.88861083984375,
+				"z" : 1
+			}
+		},
+		"mName" : "Square"
+	},
+	"Square1010010" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "defaultsquare.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 40,
+				"r" : 40,
+				"s" : 40,
+				"t" : 40,
+				"x" : 40,
+				"y" : 40
+			},
+			"translation_" : {
+				"b" : 1.0199999809265137,
+				"g" : -289.29306030273438,
+				"p" : 1.0199999809265137,
+				"r" : -617.15838623046875,
+				"s" : -617.15838623046875,
+				"t" : -289.29306030273438,
+				"x" : -617.15838623046875,
+				"y" : -289.29306030273438,
+				"z" : 1.0199999809265137
+			}
+		},
+		"mName" : "Square"
+	},
+	"mName" : "TestLevel4"
+}

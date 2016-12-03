@@ -30,7 +30,7 @@ function TriedToGlobal()
 end
 
 function PRINTSTUFF(stuff)
-	Aubergine:PushUserMessage(stuff)
+	--Aubergine:PushMessage(stuff)
 end
 
 function PRINTERROR(stuff)

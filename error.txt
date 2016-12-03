@@ -1,0 +1,6 @@
+To: julian.sullivan@digipen.edu
+From: AubergineError@gmail.com
+Subject: Exception  - aEngine->GetKitManager()->AddNewKit(nullptr)
+
+Function: "AubergineEngine::CauseErrorCall" -- Exception . aEngine->GetKitManager()->AddNewKit(nullptr)
+c:\users\julian.sullivan\desktop\alatheia master\aubergineengine\aubergineengine\editorui\backwindowactivatefunctions.cppN Line #457

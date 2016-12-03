@@ -1,5 +1,5 @@
 {
-	"Default1010001" : {
+	"Default10010" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {
@@ -35,7 +35,7 @@
 					"Type" : "Texture"
 				},
 				"OnTexture" : {
-					"Data" : "Button_Up.png",
+					"Data" : "Button_Down.png",
 					"Type" : "Texture"
 				},
 				"OnlyOnPause" : {
@@ -94,7 +94,7 @@
 		},
 		"mName" : "Default"
 	},
-	"Default1010010" : {
+	"Default10011" : {
 		"Transform" : {
 			"rotation_" : 0,
 			"scale_" : {
@@ -119,7 +119,7 @@
 		},
 		"mName" : "Default"
 	},
-	"Default1010011" : {
+	"Default10100" : {
 		"Transform" : {
 			"rotation_" : 0,
 			"scale_" : {
@@ -144,7 +144,7 @@
 		},
 		"mName" : "Default"
 	},
-	"Default1010100" : {
+	"Default10101" : {
 		"Transform" : {
 			"rotation_" : 0,
 			"scale_" : {
@@ -169,7 +169,7 @@
 		},
 		"mName" : "Default"
 	},
-	"Default1010101" : {
+	"Default10110" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {
@@ -262,7 +262,7 @@
 		},
 		"mName" : "Default"
 	},
-	"ExitGameButton1010110" : {
+	"ExitGameButton10111" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {
@@ -298,7 +298,7 @@
 					"Type" : "Texture"
 				},
 				"OnTexture" : {
-					"Data" : "Button_Up.png",
+					"Data" : "Button_Down.png",
 					"Type" : "Texture"
 				},
 				"OnlyOnPause" : {
@@ -378,7 +378,7 @@
 		},
 		"mName" : "ExitGameButton"
 	},
-	"ExitGameButton1010111" : {
+	"ExitGameButton11000" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {
@@ -494,8 +494,7 @@
 		},
 		"mName" : "ExitGameButton"
 	},
-	"ExitGameButton1011000" : {
-		"Lua Components" : {},
+	"ExitGameButton11001" : {
 		"SoundEmitter" : {},
 		"Sprite" : {
 			"color" : {
@@ -542,7 +541,7 @@
 		},
 		"mName" : "ExitGameButton"
 	},
-	"ExitGameButton1011001" : {
+	"ExitGameButton11010" : {
 		"SoundEmitter" : {},
 		"Sprite" : {
 			"color" : {
@@ -589,7 +588,7 @@
 		},
 		"mName" : "ExitGameButton"
 	},
-	"ExitGameButton1011010" : {
+	"ExitGameButton11011" : {
 		"SoundEmitter" : {},
 		"Sprite" : {
 			"color" : {
@@ -636,7 +635,7 @@
 		},
 		"mName" : "ExitGameButton"
 	},
-	"ExitGameButton1011011" : {
+	"ExitGameButton11100" : {
 		"SoundEmitter" : {},
 		"Sprite" : {
 			"color" : {
@@ -683,7 +682,7 @@
 		},
 		"mName" : "ExitGameButton"
 	},
-	"ExitGameButton1011100" : {
+	"ExitGameButton11101" : {
 		"SoundEmitter" : {},
 		"Sprite" : {
 			"color" : {
@@ -730,7 +729,7 @@
 		},
 		"mName" : "ExitGameButton"
 	},
-	"HowToPlayScreen1011101" : {
+	"HowToPlayScreen11110" : {
 		"SoundEmitter" : {},
 		"Transform" : {
 			"rotation_" : 0,
@@ -756,7 +755,7 @@
 		},
 		"mName" : "HowToPlayScreen"
 	},
-	"LoseScreen1011110" : {
+	"LoseScreen11111" : {
 		"Lua Components" : {
 			"FadeInOutWhite" : {
 				"FadeInTime" : {
@@ -818,7 +817,7 @@
 		},
 		"mName" : "LoseScreen"
 	},
-	"MAIN PAUSED1011111" : {
+	"MAIN PAUSED100000" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {
@@ -934,7 +933,7 @@
 		},
 		"mName" : "MAIN PAUSED"
 	},
-	"NoExitGame1100000" : {
+	"NoExitGame100001" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {
@@ -970,7 +969,7 @@
 					"Type" : "Texture"
 				},
 				"OnTexture" : {
-					"Data" : "Button_Up.png",
+					"Data" : "Button_Down.png",
 					"Type" : "Texture"
 				},
 				"OnlyOnPause" : {
@@ -1050,7 +1049,7 @@
 		},
 		"mName" : "NoExitGame"
 	},
-	"NoExitGame1100001" : {
+	"NoExitGame100010" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {
@@ -1166,7 +1165,7 @@
 		},
 		"mName" : "NoExitGame"
 	},
-	"NoMainMenu1100010" : {
+	"NoMainMenu100011" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {
@@ -1202,7 +1201,7 @@
 					"Type" : "Texture"
 				},
 				"OnTexture" : {
-					"Data" : "Button_Up.png",
+					"Data" : "Button_Down.png",
 					"Type" : "Texture"
 				},
 				"OnlyOnPause" : {
@@ -1282,7 +1281,7 @@
 		},
 		"mName" : "NoMainMenu"
 	},
-	"PauseMenuHandler1100011" : {
+	"PauseMenuHandler100100" : {
 		"Lua Components" : {
 			"PauseMenuHandler" : {}
 		},
@@ -1310,8 +1309,7 @@
 		},
 		"mName" : "PauseMenuHandler"
 	},
-	"Paused1100100" : {
-		"Lua Components" : {},
+	"Paused100101" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -1354,7 +1352,7 @@
 		},
 		"mName" : "Paused"
 	},
-	"Paused1100101" : {
+	"Paused100110" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -1397,8 +1395,7 @@
 		},
 		"mName" : "Paused"
 	},
-	"Paused1100110" : {
-		"Lua Components" : {},
+	"Paused100111" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -1441,8 +1438,7 @@
 		},
 		"mName" : "Paused"
 	},
-	"Paused1100111" : {
-		"Lua Components" : {},
+	"Paused101000" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -1485,8 +1481,7 @@
 		},
 		"mName" : "Paused"
 	},
-	"Paused1101000" : {
-		"Lua Components" : {},
+	"Paused101001" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -1529,8 +1524,7 @@
 		},
 		"mName" : "Paused"
 	},
-	"Paused1101001" : {
-		"Lua Components" : {},
+	"Paused101010" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -1573,7 +1567,7 @@
 		},
 		"mName" : "Paused"
 	},
-	"Paused1101010" : {
+	"Paused101011" : {
 		"Lua Components" : {
 			"PauserComponent" : {}
 		},
@@ -1619,7 +1613,7 @@
 		},
 		"mName" : "Paused"
 	},
-	"Paused1101011" : {
+	"Paused101100" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -1662,7 +1656,7 @@
 		},
 		"mName" : "Paused"
 	},
-	"Paused1101100" : {
+	"Paused101101" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -1705,8 +1699,7 @@
 		},
 		"mName" : "Paused"
 	},
-	"Paused1101101" : {
-		"Lua Components" : {},
+	"Paused101110" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -1749,7 +1742,7 @@
 		},
 		"mName" : "Paused"
 	},
-	"ResumeGameButton1101110" : {
+	"ResumeGameButton101111" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {
@@ -1785,7 +1778,7 @@
 					"Type" : "Texture"
 				},
 				"OnTexture" : {
-					"Data" : "Button_Up.png",
+					"Data" : "Button_Down.png",
 					"Type" : "Texture"
 				},
 				"OnlyOnPause" : {
@@ -1865,7 +1858,7 @@
 		},
 		"mName" : "ResumeGameButton"
 	},
-	"ResumeGameButton1101111" : {
+	"ResumeGameButton110000" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {
@@ -1981,7 +1974,7 @@
 		},
 		"mName" : "ResumeGameButton"
 	},
-	"Text1110000" : {
+	"Text110001" : {
 		"Lua Components" : {
 			"PauserComponent" : {}
 		},
@@ -2027,7 +2020,7 @@
 		},
 		"mName" : "Text"
 	},
-	"Text1110001" : {
+	"Text110010" : {
 		"Lua Components" : {
 			"PauserComponent" : {}
 		},
@@ -2073,7 +2066,7 @@
 		},
 		"mName" : "Text"
 	},
-	"Text1110010" : {
+	"Text110011" : {
 		"Lua Components" : {
 			"PauserComponent" : {}
 		},
@@ -2119,7 +2112,7 @@
 		},
 		"mName" : "Text"
 	},
-	"Text1110011" : {
+	"Text110100" : {
 		"Lua Components" : {
 			"PauserComponent" : {}
 		},
@@ -2165,7 +2158,7 @@
 		},
 		"mName" : "Text"
 	},
-	"Text1110100" : {
+	"Text110101" : {
 		"Lua Components" : {
 			"PauserComponent" : {}
 		},
@@ -2211,7 +2204,7 @@
 		},
 		"mName" : "Text"
 	},
-	"Text1110101" : {
+	"Text110110" : {
 		"Lua Components" : {
 			"PauserComponent" : {}
 		},
@@ -2257,7 +2250,7 @@
 		},
 		"mName" : "Text"
 	},
-	"Text1110110" : {
+	"Text110111" : {
 		"Lua Components" : {
 			"PauserComponent" : {}
 		},
@@ -2303,7 +2296,7 @@
 		},
 		"mName" : "Text"
 	},
-	"Text1110111" : {
+	"Text111000" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -2346,7 +2339,7 @@
 		},
 		"mName" : "Text"
 	},
-	"Text1111000" : {
+	"Text111001" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -2389,7 +2382,7 @@
 		},
 		"mName" : "Text"
 	},
-	"Text1111001" : {
+	"Text111010" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -2432,7 +2425,7 @@
 		},
 		"mName" : "Text"
 	},
-	"Text1111010" : {
+	"Text111011" : {
 		"Lua Components" : {
 			"PauserComponent" : {}
 		},
@@ -2451,7 +2444,7 @@
 				"y" : 1,
 				"z" : 1
 			},
-			"Text" : "Exit Game",
+			"Text" : "Quit Game",
 			"fontFace_" : "CALISTB.TTF"
 		},
 		"Transform" : {
@@ -2478,7 +2471,7 @@
 		},
 		"mName" : "Text"
 	},
-	"Text1111011" : {
+	"Text111100" : {
 		"Lua Components" : {
 			"PauserComponent" : {}
 		},
@@ -2524,7 +2517,7 @@
 		},
 		"mName" : "Text"
 	},
-	"Text1111100" : {
+	"Text111101" : {
 		"Lua Components" : {
 			"PauserComponent" : {}
 		},
@@ -2570,7 +2563,7 @@
 		},
 		"mName" : "Text"
 	},
-	"YesMainMenu1111101" : {
+	"YesMainMenu111110" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {

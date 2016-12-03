@@ -94,7 +94,7 @@ function PropertiesUpdate()
 	Owner.SpineComponent:SetSpineData(idleskele)
 	Owner.SpineComponent:SetAnimation(idleanim)
 
-  
+
 end
 
 function Update(event)
@@ -110,8 +110,8 @@ function Update(event)
     cam.Transform:SetY(Owner.Transform.Translation.Y)
     Owner.SoundEmitter:SetGlobalVariable("IsIntro", 1)
     Aubergine:LoadUILevel("HUD Space")
-    
-    
+
+
   end
 
   if (event.Input:KeyDown(Keys.H)) then
@@ -126,7 +126,7 @@ function Update(event)
   currentTime = Aubergine:GetSoundEventPosition("OlympusMusicMain", 0, 0);
 
   Owner.SoundEmitter:SetGlobalVariable("Music Time", currentTime)
-  
+
   CurrentTimeIntro = Aubergine:GetSoundEventPosition("OlympusMusicIntro", 0, 0);
 
   --Aubergine:PushUserMessage(currentTime)
@@ -140,7 +140,7 @@ function Update(event)
     local y = Owner.Transform.Translation.Y - ObjectGrappledTo.Transform.Translation.Y
 
     local angle = math.atan2(y, x) + (math.pi / 2)
-    
+
     Owner.Transform.Rotation = angle
 
     local vel = Owner.RigidBody.Velocity
@@ -180,8 +180,8 @@ function Update(event)
 
     if event.Input:IsRightMouseDown() then
       --print("Player World: "..worldPlayerPos.X..", "..worldPlayerPos.Y)
-      print("World Mouse Position: "..worldMousePos.X..", "..worldMousePos.Y)
-      print("Spine Mouse Position: "..armOffset.X..", "..armOffset.Y)
+      --print("World Mouse Position: "..worldMousePos.X..", "..worldMousePos.Y)
+      --print("Spine Mouse Position: "..armOffset.X..", "..armOffset.Y)
     end
 
     if Owner.SpineComponent.Mirrored then
@@ -243,12 +243,12 @@ function Update(event)
     WillTransition = false
     TimeTillMainLoop = CurrentTimeIntro + 2.809
     WillGoMainLoop = true
-    Aubergine:PushUserMessage("ONE")
+    --Aubergine:PushMessage("ONE")
   elseif (CurrentTimeIntro > TimeTillMainLoop and WillGoMainLoop) then
     Owner.SoundEmitter:SetGlobalVariable("Music Power", 1)
     Owner.SoundEmitter:SetGlobalVariable("IsIntro", 0)
     Owner.SoundEmitter:PlaySoundEvent("OlympusMusicMain")
-    Aubergine:PushUserMessage("THREE")
+    --Aubergine:PushMessage("THREE")
     WillGoMainLoop = false
   end
 
@@ -387,7 +387,7 @@ function Update(event)
 	--Owner.RigidBody:SetVelocityX(Owner.RigidBody.Velocity.X + velocityChange.X)
   --Owner.RigidBody:SetVelocityY(Owner.RigidBody.Velocity.Y + velocityChange.Y)
 
-  
+
 
   if event.Input:KeyDown(Keys.LeftShift) then
     runanim = "sprint"

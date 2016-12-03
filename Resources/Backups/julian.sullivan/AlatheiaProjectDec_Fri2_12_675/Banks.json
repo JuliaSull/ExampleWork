@@ -1,0 +1,5 @@
+{
+	"AmbianceBank" : "bank:/Ambiance",
+	"MusicBank" : "bank:/Music",
+	"SFX Bank" : "bank:/SFX"
+}

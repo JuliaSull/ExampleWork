@@ -35,14 +35,14 @@ function Initialize()
 end
 
 function Update(event)
-  if (Target == "None") then 
-    Aubergine:PushUserMessage(Target)
+  if (Target == "None") then
+    --Aubergine:PushUserMessage(Target)
     return
   end
 
   if (firstFrame) then
-    
-    
+
+
     firstFrame = false
     player = Space:FindChild(Target)
     local playerTransTemp = player.Transform.Translation
@@ -62,12 +62,12 @@ function Update(event)
   local distY = myTrans.Y - playerTrans.Y
   local dist = math.sqrt(distX * distX)
   local shouldSnapRight = false
-  
-  if (distX < 0) then 
+
+  if (distX < 0) then
     -- Because we went offscreen on the left side
-    shouldSnapRight = true  
+    shouldSnapRight = true
   end
-  
+
   if (dist > distFromPlayer) then
     if (shouldSnapRight) then
       scatterY = math.random(randomScatterYMin, randomScatterYMax)
@@ -75,7 +75,7 @@ function Update(event)
       Owner.Transform:SetX(playerTrans.X + distFromPlayer)
       Owner.Transform:SetY(playerTrans.Y + scatterY)
       Owner.Transform:SetZ(scatterZ)
-    else 
+    else
       scatterY = math.random(randomScatterYMin, randomScatterYMax)
       scatterZ = math.random() * 8 + 1
       Owner.Transform:SetX(playerTrans.X - distFromPlayer)
@@ -83,7 +83,7 @@ function Update(event)
       Owner.Transform:SetZ(scatterZ)
     end
   end
-  
+
   Owner.Transform:SetX(myTrans.X + (speed * event.DeltaTime))
 end
 

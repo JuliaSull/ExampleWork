@@ -53,34 +53,34 @@ Shader minimal 0
 Shader minimal 0
 Shader minimal 0
 Shader minimal 0
-<<<<<<< HEAD
-SpineSkeleton side 0
-Texture Platform_2.png 0
-Texture cloud_01.png 0
-Texture FloatingIsland.png 0
-Texture Platform_2.png 0
-Texture FloatingIsland.png 0
-Texture Doric_Column.png 0
-Texture FloatingIsland.png 0
-Texture cloud_01.png 0
-Texture cloud_01.png 0
-Texture FloatingIsland.png 0
-Texture CZ_Environment_01_02Middle.png 0
-Texture cloud_01.png 0
-Texture cloud_01.png 0
-Texture cloud_01.png 0
-Texture cloud_01.png 0
-Texture FloatingIsland.png 0
-Texture FloatingIsland.png 0
-Texture CZ_Environment_01_03Back.png 0
-Texture cloud_01.png 0
-Texture cloud_01.png 0
-Texture FloatingIsland.png 0
-Texture FloatingIsland.png 0
-=======
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
+Shader minimal 0
 Shader minimal 0
 SpineSkeleton skeleton 0
 Texture Platform_2.png 0
+Texture Checkpoint_Temp.png 0
+Texture Checkpoint_Temp.png 0
+Texture Checkpoint_Temp.png 0
+Texture Checkpoint_Temp.png 0
+Texture Checkpoint_Temp.png 0
+Texture Checkpoint_Temp.png 0
+Texture Checkpoint_Temp.png 0
 Texture cloud_01.png 0
 Texture cloud_01.png 0
 Texture FloatingIsland.png 0
@@ -102,41 +102,37 @@ Texture FloatingIsland.png 0
 Texture CZ_Environment_01_02Middle.png 0
 Texture cloud_01.png 0
 Texture cloud_01.png 0
->>>>>>> 51db2b45cf118bf8936a74c55ae053f4db027ae9
 Texture Tree_01_FC.png 0
 Texture Tree_01_FC.png 0
 Texture Tree_01_FC.png 0
-Texture Tree_01_FC.png 0
-<<<<<<< HEAD
 Texture Platform_2.png 0
-Texture FloatingIsland.png 0
+Texture Platform_2.png 0
+Texture Platform_2.png 0
+Texture Platform_2.png 0
 Texture Floating_island_03.png 0
-=======
->>>>>>> 51db2b45cf118bf8936a74c55ae053f4db027ae9
 Texture spiral_cloud_01.png 0
 Texture Platform_2.png 0
-Texture Platform_2.png 0
-Texture Platform_2.png 0
-Texture Platform_2.png 0
+Texture Floating_island_03.png 0
+Texture Floating_island_03.png 0
 Texture Platform_2.png 0
 Texture Platform_2.png 0
 Texture Floating_island_03.png 0
 Texture Platform_2.png 0
-<<<<<<< HEAD
 Texture Platform_2.png 0
 Texture Platform_2.png 0
 Texture Platform_2.png 0
-=======
-Texture 8bitukgjklsgjbnd copy.png 0
+Texture Platform_2.png 0
+Texture FloatingIsland.png 0
+Texture FloatingIsland.png 0
+Texture Floating_island_03.png 0
+Texture Platform_2.png 0
 Texture Platform_2.png 0
 Texture Platform_2.png 0
 Texture Platform_2.png 0
 Texture Platform_2.png 0
 Texture FloatingIsland.png 0
 Texture Floating_island_03.png 0
->>>>>>> 51db2b45cf118bf8936a74c55ae053f4db027ae9
-Texture FloatingIsland.png 0
-Texture Floating_island_03.png 0
+Texture Floating_island_02.png 0
 Texture Floating_island_02.png 0
 Texture CZ_Environment_01_01Front.png 0
 Texture CZ_Environment_01_01Front.png 0
@@ -146,11 +142,8 @@ Texture Doric_Column.png 0
 Texture Doric_Column.png 0
 Texture Doric_Column.png 0
 Texture Doric_Column.png 0
-<<<<<<< HEAD
 Texture Doric_Column.png 0
-Texture Doggie-with-ball.jpg 0
-=======
-Texture defaultsquare.png 0
 Texture Doric_Column.png 0
->>>>>>> 51db2b45cf118bf8936a74c55ae053f4db027ae9
+Texture Doric_Column.png 0
+Texture Doric_Column.png 0
 Texture Platform_2.png 0

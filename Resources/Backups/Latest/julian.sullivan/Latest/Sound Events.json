@@ -1,4 +1,14 @@
 {
+	"Checkpoint" : {
+		"1Name" : "Checkpoint",
+		"2Bank List" : {
+			"SFX Bank" : {
+				"1Name" : "SFX Bank",
+				"2EventName" : "event:/SFX/Environment/Checkpoint",
+				"3Parameters" : {}
+			}
+		}
+	},
 	"ExitButtonOver" : {
 		"1Name" : "ExitButtonOver",
 		"2Bank List" : {
@@ -43,8 +53,14 @@
 		"2Bank List" : {
 			"SFX Bank" : {
 				"1Name" : "SFX Bank",
-				"2EventName" : "",
-				"3Parameters" : {}
+				"2EventName" : "event:/SFX/Alatheia/Alatheia_Grapple",
+				"3Parameters" : {
+					"Music Time" : {
+						"Default Value" : 0,
+						"Global Name" : "Music Time",
+						"Uses Global" : true
+					}
+				}
 			}
 		}
 	},
@@ -94,7 +110,7 @@
 		"2Bank List" : {
 			"SFX Bank" : {
 				"1Name" : "SFX Bank",
-				"2EventName" : "",
+				"2EventName" : "event:/SFX/Environment/Mekazoo/Mekazoo",
 				"3Parameters" : {}
 			}
 		}
@@ -110,6 +126,58 @@
 			"MusicBank" : {
 				"1Name" : "MusicBank",
 				"2EventName" : "",
+				"3Parameters" : {}
+			}
+		}
+	},
+	"OlympusMusicIntro" : {
+		"1Name" : "OlympusMusicIntro",
+		"2Bank List" : {
+			"MusicBank" : {
+				"1Name" : "MusicBank",
+				"2EventName" : "event:/Music/LevelOne/Music_LevelOneINTRO",
+				"3Parameters" : {
+					"IsIntro" : {
+						"Default Value" : 0,
+						"Global Name" : "IsIntro",
+						"Uses Global" : true
+					},
+					"Pause" : {
+						"Default Value" : 0,
+						"Global Name" : "Paused",
+						"Uses Global" : true
+					}
+				}
+			}
+		}
+	},
+	"OlympusMusicMain" : {
+		"1Name" : "OlympusMusicMain",
+		"2Bank List" : {
+			"MusicBank" : {
+				"1Name" : "MusicBank",
+				"2EventName" : "event:/Music/LevelOne/Music_LevelOneMAIN",
+				"3Parameters" : {
+					"Pause" : {
+						"Default Value" : 0,
+						"Global Name" : "Paused",
+						"Uses Global" : true
+					},
+					"Progress" : {
+						"Default Value" : 0,
+						"Global Name" : "Music Power",
+						"Uses Global" : true
+					}
+				}
+			}
+		}
+	},
+	"OlympusWind" : {
+		"1Name" : "OlympusWind",
+		"2Bank List" : {
+			"AmbianceBank" : {
+				"1Name" : "AmbianceBank",
+				"2EventName" : "event:/Ambiance/MainMenu/MainMenu_Wind",
 				"3Parameters" : {}
 			}
 		}

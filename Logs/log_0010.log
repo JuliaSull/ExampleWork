@@ -1,0 +1,51 @@
+Fri Dec  2 22:19:30 2016
+Log file started. 
+CPU Cores: 8
+CPU Architecture: x86
+System RAM: 4235091968 bytes
+GPU: NVIDIA Corporation GeForce GTX 760/PCIe/SSE2
+OpenGL Version: 4.1.0 NVIDIA 358.50
+Shader Language VersionL 4.10 NVIDIA via Cg compiler
+Primary Display is 1920x1080 at 60hz.
+System has 1 connected display(s)
+
+This system does not support: 3DNOW INSTRUCTIONS
+This system does not support: ALPHA BYTE INSTRUCTIONS
+This system does not support: ARM 64BIT LOADSTORE ATOMIC
+This system does not support: ARM DIVIDE INSTRUCTION
+This system does not support: ARM EXTERNAL CACHE
+This system does not support: ARM FMAC INSTRUCTIONS
+This system does not support: ARM VFP 32 REGISTERS
+This system does not support: CHANNELS
+This system does not support: FASTFAIL
+This system does not support: RDWRFSGSBASE
+This system does not support: SECOND LEVEL ADDRESS TRANSLATION
+This system does not support: VIRT FIRMWARE
+
+
+Fri Dec  2 22:19:30 2016
+Unrecognized resource type in preload list
+Fri Dec  2 22:19:41 2016
+Animation was set to: debchinegun
+Fri Dec  2 22:19:44 2016
+Animation was set to: ok
+Fri Dec  2 22:20:26 2016
+Animation was set to: debchinegun
+Fri Dec  2 22:20:31 2016
+Animation was set to: ok
+Fri Dec  2 22:20:34 2016
+YesMainMenu
+Fri Dec  2 22:20:36 2016
+MAIN PAUSED
+Fri Dec  2 22:20:39 2016
+NoExitGame
+Fri Dec  2 22:20:40 2016
+MAIN PAUSED
+Fri Dec  2 22:20:43 2016
+HowToPlayScreen
+Fri Dec  2 22:20:45 2016
+MAIN PAUSED
+Fri Dec  2 22:20:47 2016
+HowToPlayScreen
+Fri Dec  2 22:20:53 2016
+Animation was set to: ok

@@ -1,0 +1,25 @@
+Fri Dec  2 22:13:32 2016
+Log file started. 
+CPU Cores: 8
+CPU Architecture: x86
+System RAM: 4235091968 bytes
+GPU: NVIDIA Corporation GeForce GTX 760/PCIe/SSE2
+OpenGL Version: 4.1.0 NVIDIA 358.50
+Shader Language VersionL 4.10 NVIDIA via Cg compiler
+Primary Display is 1920x1080 at 60hz.
+System has 1 connected display(s)
+
+This system does not support: 3DNOW INSTRUCTIONS
+This system does not support: ALPHA BYTE INSTRUCTIONS
+This system does not support: ARM 64BIT LOADSTORE ATOMIC
+This system does not support: ARM DIVIDE INSTRUCTION
+This system does not support: ARM EXTERNAL CACHE
+This system does not support: ARM FMAC INSTRUCTIONS
+This system does not support: ARM VFP 32 REGISTERS
+This system does not support: CHANNELS
+This system does not support: FASTFAIL
+This system does not support: RDWRFSGSBASE
+This system does not support: SECOND LEVEL ADDRESS TRANSLATION
+This system does not support: VIRT FIRMWARE
+
+

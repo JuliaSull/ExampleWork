@@ -17,6 +17,7 @@ function Update(event)
     cam = Aubergine:GetUICamera()
     cam.Transform:SetX(obj.Transform.Translation.X)
     cam.Transform:SetY(obj.Transform.Translation.Y)
+    cam.CameraController:SetTarget(obj)
   end
   
   

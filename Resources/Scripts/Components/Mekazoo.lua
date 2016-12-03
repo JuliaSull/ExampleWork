@@ -49,7 +49,7 @@ function Update(event)
 
     if (percentage >= 100 and not maxSpeed) then
       --player.SoundEmitter:StopSoundEventFadeOut("MekazooSpeedUp")
-      player.SoundEmitter:PlaySoundEvent("MekazooMaxSpeed")
+      
       maxSpeed = true
       --Aubergine:PushUserMessage("HERE")
     end
@@ -62,12 +62,14 @@ function GrappleStarted(event)
     firstGrapple = false
   end
   maxSpeed = false
+  player.SoundEmitter:PlaySoundEvent("MekazooSpeedUp")
   --player.SoundEmitter:PlaySoundEvent("MekazooSpeedUp")
 end
 
 function GrappleEnded(event)
   isSwing = false
   maxSpeed = false
+  player.SoundEmitter:StopSoundEventFadeOut("MekazooSpeedUp")
   --player.SoundEmitter:StopSoundEventFadeOut("MekazooSpeedUp")
 end
 
