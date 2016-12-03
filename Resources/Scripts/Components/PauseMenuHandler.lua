@@ -18,6 +18,7 @@ function Update(event)
     cam.Transform:SetX(obj.Transform.Translation.X)
     cam.Transform:SetY(obj.Transform.Translation.Y)
     cam.CameraController:SetTarget(obj)
+    cam.CameraController:SetSize(1500)
   end
   
   

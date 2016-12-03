@@ -310,11 +310,11 @@
 					"Type" : "Texture"
 				},
 				"OverSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonOver",
 					"Type" : "SoundEvent"
 				},
 				"SelectSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonDown",
 					"Type" : "SoundEvent"
 				},
 				"Target" : {
@@ -426,11 +426,11 @@
 					"Type" : "Texture"
 				},
 				"OverSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonOver",
 					"Type" : "SoundEvent"
 				},
 				"SelectSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonDown",
 					"Type" : "SoundEvent"
 				},
 				"Target" : {
@@ -865,11 +865,11 @@
 					"Type" : "Texture"
 				},
 				"OverSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonOver",
 					"Type" : "SoundEvent"
 				},
 				"SelectSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonDown",
 					"Type" : "SoundEvent"
 				},
 				"Target" : {
@@ -981,11 +981,11 @@
 					"Type" : "Texture"
 				},
 				"OverSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonOver",
 					"Type" : "SoundEvent"
 				},
 				"SelectSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonDown",
 					"Type" : "SoundEvent"
 				},
 				"Target" : {
@@ -1065,7 +1065,7 @@
 					"Type" : "Component"
 				},
 				"DownTexture" : {
-					"Data" : "Buttoný_Down.png",
+					"Data" : "Button_Down.png",
 					"Type" : "Texture"
 				},
 				"ExitGame" : {
@@ -1097,11 +1097,11 @@
 					"Type" : "Texture"
 				},
 				"OverSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonOver",
 					"Type" : "SoundEvent"
 				},
 				"SelectSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonDown",
 					"Type" : "SoundEvent"
 				},
 				"Target" : {
@@ -1213,11 +1213,11 @@
 					"Type" : "Texture"
 				},
 				"OverSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonOver",
 					"Type" : "SoundEvent"
 				},
 				"SelectSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonDown",
 					"Type" : "SoundEvent"
 				},
 				"Target" : {
@@ -1790,11 +1790,11 @@
 					"Type" : "Texture"
 				},
 				"OverSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonOver",
 					"Type" : "SoundEvent"
 				},
 				"SelectSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonDown",
 					"Type" : "SoundEvent"
 				},
 				"Target" : {
@@ -1906,11 +1906,11 @@
 					"Type" : "Texture"
 				},
 				"OverSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonOver",
 					"Type" : "SoundEvent"
 				},
 				"SelectSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonDown",
 					"Type" : "SoundEvent"
 				},
 				"Target" : {
@@ -2444,7 +2444,7 @@
 				"y" : 1,
 				"z" : 1
 			},
-			"Text" : "Quit Game",
+			"Text" : "Exit Game",
 			"fontFace_" : "CALISTB.TTF"
 		},
 		"Transform" : {
@@ -2611,11 +2611,11 @@
 					"Type" : "Texture"
 				},
 				"OverSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonOver",
 					"Type" : "SoundEvent"
 				},
 				"SelectSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonDown",
 					"Type" : "SoundEvent"
 				},
 				"Target" : {

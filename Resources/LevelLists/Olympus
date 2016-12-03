@@ -21,7 +21,8 @@ Shader minimal 0
 Shader minimal 0
 Shader minimal 0
 Shader minimal 0
-Shader minimal 0
+Shader ,
+			 0
 Shader minimal 0
 Shader minimal 0
 Shader minimal 0
@@ -81,6 +82,10 @@ Texture Checkpoint_Temp.png 0
 Texture Checkpoint_Temp.png 0
 Texture Checkpoint_Temp.png 0
 Texture Checkpoint_Temp.png 0
+Texture FloatingIsland.png 0
+Texture CZ_Environment_01_02Middle.png 0
+Texture cloud_01.png 0
+Texture cloud_01.png 0
 Texture cloud_01.png 0
 Texture cloud_01.png 0
 Texture FloatingIsland.png 0
@@ -92,14 +97,10 @@ Texture FloatingIsland.png 0
 Texture FloatingIsland.png 0
 Texture cloud_01.png 0
 Texture FloatingIsland.png 0
-Texture Platform_2.png 0
+Texture  0
 Texture FloatingIsland.png 0
 Texture Doric_Column.png 0
 Texture FloatingIsland.png 0
-Texture cloud_01.png 0
-Texture cloud_01.png 0
-Texture FloatingIsland.png 0
-Texture CZ_Environment_01_02Middle.png 0
 Texture cloud_01.png 0
 Texture cloud_01.png 0
 Texture Tree_01_FC.png 0

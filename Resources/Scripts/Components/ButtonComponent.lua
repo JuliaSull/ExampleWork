@@ -106,6 +106,7 @@ function Update(event)
   end
 
   if (OverSound ~= "None" and previousState == "Off" and currentState == "On") then
+    Aubergine:PushUserMessage(OverSound)
     Owner.SoundEmitter:PlaySoundEvent(OverSound)
   end
 
@@ -118,6 +119,8 @@ function Activate()
 
   Aubergine:PushUserMessage(CameraTarget)
   if (SelectSound ~= "None" and SelectSound ~= "") then
+    Aubergine:PushUserMessage("IT PLAYED")
+    Aubergine:PushUserMessage(SelectSound)
     Owner.SoundEmitter:PlaySoundEvent(SelectSound)
   end
 

@@ -1,5 +1,53 @@
 {
-	"AAABack01110101101" : {
+	"A101111001" : {
+		"Lua Components" : {},
+		"SoundEmitter" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Button_Up.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 4.3588237762451172,
+				"r" : 4.0611419677734375,
+				"s" : 4.0611419677734375,
+				"t" : 4.3588237762451172,
+				"x" : 4.0611419677734375,
+				"y" : 4.3588237762451172
+			},
+			"translation_" : {
+				"b" : 15,
+				"g" : -21.523643493652344,
+				"p" : 15,
+				"r" : -107.31039428710938,
+				"s" : -107.31039428710938,
+				"t" : -21.523643493652344,
+				"x" : -107.31039428710938,
+				"y" : -21.523643493652344,
+				"z" : 15
+			}
+		},
+		"mName" : "A"
+	},
+	"AAABack01100111001" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -45,7 +93,7 @@
 		},
 		"mName" : "AAABack01"
 	},
-	"AAABack01110101110" : {
+	"AAABack01100111010" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -79,19 +127,112 @@
 			},
 			"translation_" : {
 				"b" : 1.75,
-				"g" : -38.499286651611328,
+				"g" : -38.508049011230469,
 				"p" : 1.75,
-				"r" : 16.921310424804688,
-				"s" : 16.921310424804688,
-				"t" : -38.499286651611328,
-				"x" : 16.921310424804688,
-				"y" : -38.499286651611328,
+				"r" : 154.80323791503906,
+				"s" : 154.80323791503906,
+				"t" : -38.508049011230469,
+				"x" : 154.80323791503906,
+				"y" : -38.508049011230469,
 				"z" : 1.75
 			}
 		},
 		"mName" : "AAABack01"
 	},
-	"AAABack02110101111" : {
+	"AAABack01100111011" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "CZ_Environment_01_01Front.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 25.107463836669922,
+				"r" : 138.35298156738281,
+				"s" : 138.35298156738281,
+				"t" : 25.107463836669922,
+				"x" : 138.35298156738281,
+				"y" : 25.107463836669922
+			},
+			"translation_" : {
+				"b" : 1.75,
+				"g" : -38.586624145507813,
+				"p" : 1.75,
+				"r" : 16.921310424804688,
+				"s" : 16.921310424804688,
+				"t" : -38.586624145507813,
+				"x" : 16.921310424804688,
+				"y" : -38.586624145507813,
+				"z" : 1.75
+			}
+		},
+		"mName" : "AAABack01"
+	},
+	"AAABack02100111100" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "CZ_Environment_01_02Middle.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 40.450473785400391,
+				"r" : 130.92713928222656,
+				"s" : 130.92713928222656,
+				"t" : 40.450473785400391,
+				"x" : 130.92713928222656,
+				"y" : 40.450473785400391
+			},
+			"translation_" : {
+				"b" : 1.2000000476837158,
+				"g" : -30.545164108276367,
+				"p" : 1.2000000476837158,
+				"r" : 148.99282836914063,
+				"s" : 148.99282836914063,
+				"t" : -30.545164108276367,
+				"x" : 148.99282836914063,
+				"y" : -30.545164108276367,
+				"z" : 1.2000000476837158
+			}
+		},
+		"mName" : "AAABack02"
+	},
+	"AAABack02100111101" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -137,7 +278,7 @@
 		},
 		"mName" : "AAABack02"
 	},
-	"AAABack02110110000" : {
+	"AAABack02100111110" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -183,7 +324,53 @@
 		},
 		"mName" : "AAABack02"
 	},
-	"AAABack03110110001" : {
+	"AAABack03100111111" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "CZ_Environment_01_03Back.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50.828872680664063,
+				"r" : 134.76667785644531,
+				"s" : 134.76667785644531,
+				"t" : 50.828872680664063,
+				"x" : 134.76667785644531,
+				"y" : 50.828872680664063
+			},
+			"translation_" : {
+				"b" : 1.1000000238418579,
+				"g" : -23.385135650634766,
+				"p" : 1.1000000238418579,
+				"r" : 153.32823181152344,
+				"s" : 153.32823181152344,
+				"t" : -23.385135650634766,
+				"x" : 153.32823181152344,
+				"y" : -23.385135650634766,
+				"z" : 1.1000000238418579
+			}
+		},
+		"mName" : "AAABack03"
+	},
+	"AAABack03101000000" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -229,7 +416,7 @@
 		},
 		"mName" : "AAABack03"
 	},
-	"AAABack03110110010" : {
+	"AAABack03101000001" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -275,7 +462,53 @@
 		},
 		"mName" : "AAABack03"
 	},
-	"AAABack04110110011" : {
+	"AAABack04101000010" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : true,
+			"shaderFile_" : "",
+			"textureFileName_" : "CZ_Environment_01_04Background.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 30.217945098876953,
+				"r" : 135.4251708984375,
+				"s" : 135.4251708984375,
+				"t" : 30.217945098876953,
+				"x" : 135.4251708984375,
+				"y" : 30.217945098876953
+			},
+			"translation_" : {
+				"b" : 1,
+				"g" : 7.3294448852539063,
+				"p" : 1,
+				"r" : 153.59700012207031,
+				"s" : 153.59700012207031,
+				"t" : 7.3294448852539063,
+				"x" : 153.59700012207031,
+				"y" : 7.3294448852539063,
+				"z" : 1
+			}
+		},
+		"mName" : "AAABack04"
+	},
+	"AAABack04101000011" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -321,7 +554,7 @@
 		},
 		"mName" : "AAABack04"
 	},
-	"AAABack04110110100" : {
+	"AAABack04101000100" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -367,7 +600,7 @@
 		},
 		"mName" : "AAABack04"
 	},
-	"Alatheia110110101" : {
+	"Alatheia101000101" : {
 		"Lua Components" : {
 			"MainMenuAlatheia" : {
 				"Target" : {
@@ -375,11 +608,11 @@
 					"Type" : "Cog"
 				},
 				"animation" : {
-					"Data" : "idle1",
+					"Data" : "None",
 					"Type" : "Animation"
 				},
 				"shouldPoint" : {
-					"Data" : true,
+					"Data" : false,
 					"Type" : "bool"
 				},
 				"skeleton" : {
@@ -428,56 +661,7 @@
 		},
 		"mName" : "Alatheia"
 	},
-	"BackCloud110110110" : {
-		"Lua Components" : {
-			"FloatyCloud" : {}
-		},
-		"Sprite" : {
-			"color" : {
-				"a" : 1,
-				"b" : 1,
-				"g" : 1,
-				"p" : 1,
-				"q" : 1,
-				"r" : 1,
-				"s" : 1,
-				"t" : 1,
-				"w" : 1,
-				"x" : 1,
-				"y" : 1,
-				"z" : 1
-			},
-			"framesX" : 1,
-			"framesY" : 1,
-			"mirrorX" : false,
-			"shaderFile_" : "",
-			"textureFileName_" : "cloud_02.png"
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 5,
-				"r" : 16,
-				"s" : 16,
-				"t" : 5,
-				"x" : 16,
-				"y" : 5
-			},
-			"translation_" : {
-				"b" : 5,
-				"g" : -32,
-				"p" : 5,
-				"r" : -35,
-				"s" : -35,
-				"t" : -32,
-				"x" : -35,
-				"y" : -32,
-				"z" : 5
-			}
-		},
-		"mName" : "BackCloud"
-	},
-	"BackCloud110110111" : {
+	"BackCloud101000110" : {
 		"Lua Components" : {
 			"FloatyCloud" : {}
 		},
@@ -526,7 +710,7 @@
 		},
 		"mName" : "BackCloud"
 	},
-	"BackCloud110111000" : {
+	"BackCloud101000111" : {
 		"Lua Components" : {
 			"FloatyCloud" : {}
 		},
@@ -575,7 +759,56 @@
 		},
 		"mName" : "BackCloud"
 	},
-	"BackcloudBig110111001" : {
+	"BackCloud101001000" : {
+		"Lua Components" : {
+			"FloatyCloud" : {}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "cloud_02.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 5,
+				"r" : 16,
+				"s" : 16,
+				"t" : 5,
+				"x" : 16,
+				"y" : 5
+			},
+			"translation_" : {
+				"b" : 5,
+				"g" : -32,
+				"p" : 5,
+				"r" : -35,
+				"s" : -35,
+				"t" : -32,
+				"x" : -35,
+				"y" : -32,
+				"z" : 5
+			}
+		},
+		"mName" : "BackCloud"
+	},
+	"BackcloudBig101001001" : {
 		"Lua Components" : {
 			"FloatyCloud" : {}
 		},
@@ -624,7 +857,7 @@
 		},
 		"mName" : "BackcloudBig"
 	},
-	"CenterScreen110111010" : {
+	"CenterScreen101001010" : {
 		"Lua Components" : {},
 		"SoundEmitter" : {},
 		"Transform" : {
@@ -639,19 +872,19 @@
 			},
 			"translation_" : {
 				"b" : 10,
-				"g" : -16.429500579833984,
+				"g" : -16.57740592956543,
 				"p" : 10,
-				"r" : 26.864400863647461,
-				"s" : 26.864400863647461,
-				"t" : -16.429500579833984,
-				"x" : 26.864400863647461,
-				"y" : -16.429500579833984,
+				"r" : 26.56859016418457,
+				"s" : 26.56859016418457,
+				"t" : -16.57740592956543,
+				"x" : 26.56859016418457,
+				"y" : -16.57740592956543,
 				"z" : 10
 			}
 		},
 		"mName" : "CenterScreen"
 	},
-	"Cloud110111011" : {
+	"Cloud101001011" : {
 		"Lua Components" : {
 			"FloatyCloud" : {}
 		},
@@ -700,7 +933,8 @@
 		},
 		"mName" : "Cloud"
 	},
-	"Default110111100" : {
+	"Default101001100" : {
+		"Lua Components" : {},
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -746,7 +980,307 @@
 		},
 		"mName" : "Default"
 	},
-	"ExitText110111101" : {
+	"Dropped Object101001101" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Checkpoint_Temp.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 56.549201965332031,
+				"r" : 57.006423950195313,
+				"s" : 57.006423950195313,
+				"t" : 56.549201965332031,
+				"x" : 57.006423950195313,
+				"y" : 56.549201965332031
+			},
+			"translation_" : {
+				"b" : 1.7599999904632568,
+				"g" : -21.796010971069336,
+				"p" : 1.7599999904632568,
+				"r" : 156.34974670410156,
+				"s" : 156.34974670410156,
+				"t" : -21.796010971069336,
+				"x" : 156.34974670410156,
+				"y" : -21.796010971069336,
+				"z" : 1.7599999904632568
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object101001110" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "cloud_01.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 1.0099999904632568,
+				"g" : -10.896337509155273,
+				"p" : 1.0099999904632568,
+				"r" : 172.96488952636719,
+				"s" : 172.96488952636719,
+				"t" : -10.896337509155273,
+				"x" : 172.96488952636719,
+				"y" : -10.896337509155273,
+				"z" : 1.0099999904632568
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object101001111" : {
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "cloud_06.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 10,
+				"g" : -49.608882904052734,
+				"p" : 10,
+				"r" : 172.96487426757813,
+				"s" : 172.96487426757813,
+				"t" : -49.608882904052734,
+				"x" : 172.96487426757813,
+				"y" : -49.608882904052734,
+				"z" : 10
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"Dropped Object101010000" : {
+		"Lua Components" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "cloud_06.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 50,
+				"r" : 50,
+				"s" : 50,
+				"t" : 50,
+				"x" : 50,
+				"y" : 50
+			},
+			"translation_" : {
+				"b" : 10.100000381469727,
+				"g" : -48.694419860839844,
+				"p" : 10.100000381469727,
+				"r" : 141.11080932617188,
+				"s" : 141.11080932617188,
+				"t" : -48.694419860839844,
+				"x" : 141.11080932617188,
+				"y" : -48.694419860839844,
+				"z" : 10.100000381469727
+			}
+		},
+		"mName" : "Dropped Object"
+	},
+	"ExitNO101010001" : {
+		"Lua Components" : {
+			"ButtonComponent" : {
+				"CameraSpeed" : {
+					"Data" : 1000,
+					"Type" : "Integer"
+				},
+				"CameraTarget" : {
+					"Data" : "None",
+					"Type" : "Cog"
+				},
+				"Component" : {
+					"Data" : "None",
+					"Type" : "Component"
+				},
+				"DownTexture" : {
+					"Data" : "Button_Down.png",
+					"Type" : "Texture"
+				},
+				"ExitGame" : {
+					"Data" : false,
+					"Type" : "Bool"
+				},
+				"Function" : {
+					"Data" : "None",
+					"Type" : "Function"
+				},
+				"LevelToLoad" : {
+					"Data" : "None",
+					"Type" : "Level"
+				},
+				"OffTexture" : {
+					"Data" : "Button_Up.png",
+					"Type" : "Texture"
+				},
+				"OnTexture" : {
+					"Data" : "Button_Down.png",
+					"Type" : "Texture"
+				},
+				"OnlyOnPause" : {
+					"Data" : false,
+					"Type" : "Boollock"
+				},
+				"OutTexture" : {
+					"Data" : "Button_Up.png",
+					"Type" : "Texture"
+				},
+				"OverSound" : {
+					"Data" : "PlayButtonOver",
+					"Type" : "SoundEvent"
+				},
+				"SelectSound" : {
+					"Data" : "PlayButtonDown",
+					"Type" : "SoundEvent"
+				},
+				"Target" : {
+					"Data" : "None",
+					"Type" : "Cog"
+				},
+				"WorldCameraSpeed" : {
+					"Data" : 60,
+					"Type" : "Integer"
+				},
+				"WorldCameraTarget" : {
+					"Data" : "CenterScreen",
+					"Type" : "Cog"
+				}
+			}
+		},
+		"SoundEmitter" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Button_Up.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 5.3005752563476563,
+				"r" : 22.102378845214844,
+				"s" : 22.102378845214844,
+				"t" : 5.3005752563476563,
+				"x" : 22.102378845214844,
+				"y" : 5.3005752563476563
+			},
+			"translation_" : {
+				"b" : 15,
+				"g" : -26.842052459716797,
+				"p" : 15,
+				"r" : 129.46981811523438,
+				"s" : 129.46981811523438,
+				"t" : -26.842052459716797,
+				"x" : 129.46981811523438,
+				"y" : -26.842052459716797,
+				"z" : 15
+			}
+		},
+		"mName" : "ExitNO"
+	},
+	"ExitText101010010" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -789,7 +1323,122 @@
 		},
 		"mName" : "ExitText"
 	},
-	"FloatyRock110111110" : {
+	"ExitYES101010011" : {
+		"Lua Components" : {
+			"ButtonComponent" : {
+				"CameraSpeed" : {
+					"Data" : 1000,
+					"Type" : "Integer"
+				},
+				"CameraTarget" : {
+					"Data" : "None",
+					"Type" : "Cog"
+				},
+				"Component" : {
+					"Data" : "None",
+					"Type" : "Component"
+				},
+				"DownTexture" : {
+					"Data" : "Button_Down.png",
+					"Type" : "Texture"
+				},
+				"ExitGame" : {
+					"Data" : true,
+					"Type" : "Bool"
+				},
+				"Function" : {
+					"Data" : "None",
+					"Type" : "Function"
+				},
+				"LevelToLoad" : {
+					"Data" : "None",
+					"Type" : "Level"
+				},
+				"OffTexture" : {
+					"Data" : "Button_Up.png",
+					"Type" : "Texture"
+				},
+				"OnTexture" : {
+					"Data" : "Button_Down.png",
+					"Type" : "Texture"
+				},
+				"OnlyOnPause" : {
+					"Data" : false,
+					"Type" : "Boollock"
+				},
+				"OutTexture" : {
+					"Data" : "Button_Up.png",
+					"Type" : "Texture"
+				},
+				"OverSound" : {
+					"Data" : "PlayButtonOver",
+					"Type" : "SoundEvent"
+				},
+				"SelectSound" : {
+					"Data" : "PlayButtonDown",
+					"Type" : "SoundEvent"
+				},
+				"Target" : {
+					"Data" : "None",
+					"Type" : "Cog"
+				},
+				"WorldCameraSpeed" : {
+					"Data" : 1,
+					"Type" : "Integer"
+				},
+				"WorldCameraTarget" : {
+					"Data" : "None",
+					"Type" : "Cog"
+				}
+			}
+		},
+		"SoundEmitter" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Button_Up.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 5.3005752563476563,
+				"r" : 22.102378845214844,
+				"s" : 22.102378845214844,
+				"t" : 5.3005752563476563,
+				"x" : 22.102378845214844,
+				"y" : 5.3005752563476563
+			},
+			"translation_" : {
+				"b" : 15,
+				"g" : -17.292387008666992,
+				"p" : 15,
+				"r" : 129.63363647460938,
+				"s" : 129.63363647460938,
+				"t" : -17.292387008666992,
+				"x" : 129.63363647460938,
+				"y" : -17.292387008666992,
+				"z" : 15
+			}
+		},
+		"mName" : "ExitYES"
+	},
+	"FloatyRock101010100" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -835,7 +1484,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock110111111" : {
+	"FloatyRock101010101" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -884,7 +1533,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock111000000" : {
+	"FloatyRock101010110" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -930,7 +1579,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock111000001" : {
+	"FloatyRock101010111" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -979,7 +1628,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock111000010" : {
+	"FloatyRock101011000" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -1028,7 +1677,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock111000011" : {
+	"FloatyRock101011001" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -1077,7 +1726,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock111000100" : {
+	"FloatyRock101011010" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -1126,7 +1775,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock111000101" : {
+	"FloatyRock101011011" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -1175,7 +1824,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock111000110" : {
+	"FloatyRock101011100" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -1224,7 +1873,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock111000111" : {
+	"FloatyRock101011101" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -1273,7 +1922,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock111001000" : {
+	"FloatyRock101011110" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -1322,7 +1971,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock111001001" : {
+	"FloatyRock101011111" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -1350,7 +1999,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FrontCloudBig111001010" : {
+	"FrontCloudBig101100000" : {
 		"Lua Components" : {
 			"FloatyCloud" : {}
 		},
@@ -1399,7 +2048,7 @@
 		},
 		"mName" : "FrontCloudBig"
 	},
-	"Ground111001011" : {
+	"Ground101100001" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -1445,7 +2094,136 @@
 		},
 		"mName" : "Ground"
 	},
-	"How To PlayText111001100" : {
+	"How To PlayText101100010" : {
+		"SpriteText" : {
+			"Color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"Text" : "Yes",
+			"fontFace_" : "CALIST.TTF"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 5.5060710906982422,
+				"r" : 7.3846893310546875,
+				"s" : 7.3846893310546875,
+				"t" : 5.5060710906982422,
+				"x" : 7.3846893310546875,
+				"y" : 5.5060710906982422
+			},
+			"translation_" : {
+				"b" : 19.100000381469727,
+				"g" : -17.263525009155273,
+				"p" : 19.100000381469727,
+				"r" : 129.45634460449219,
+				"s" : 129.45634460449219,
+				"t" : -17.263525009155273,
+				"x" : 129.45634460449219,
+				"y" : -17.263525009155273,
+				"z" : 19.100000381469727
+			}
+		},
+		"mName" : "How To PlayText"
+	},
+	"How To PlayText101100011" : {
+		"SpriteText" : {
+			"Color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"Text" : "No",
+			"fontFace_" : "CALIST.TTF"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 5.3340034484863281,
+				"r" : 5.3339920043945313,
+				"s" : 5.3339920043945313,
+				"t" : 5.3340034484863281,
+				"x" : 5.3339920043945313,
+				"y" : 5.3340034484863281
+			},
+			"translation_" : {
+				"b" : 19.100000381469727,
+				"g" : -26.985179901123047,
+				"p" : 19.100000381469727,
+				"r" : 129.63545227050781,
+				"s" : 129.63545227050781,
+				"t" : -26.985179901123047,
+				"x" : 129.63545227050781,
+				"y" : -26.985179901123047,
+				"z" : 19.100000381469727
+			}
+		},
+		"mName" : "How To PlayText"
+	},
+	"How To PlayText101100100" : {
+		"SpriteText" : {
+			"Color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"Text" : "Are you sure?",
+			"fontFace_" : "CALIST.TTF"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 8.8800935745239258,
+				"r" : 11.350990295410156,
+				"s" : 11.350990295410156,
+				"t" : 8.8800935745239258,
+				"x" : 11.350990295410156,
+				"y" : 8.8800935745239258
+			},
+			"translation_" : {
+				"b" : 19,
+				"g" : -6.5305838584899902,
+				"p" : 19,
+				"r" : 130.27198791503906,
+				"s" : 130.27198791503906,
+				"t" : -6.5305838584899902,
+				"x" : 130.27198791503906,
+				"y" : -6.5305838584899902,
+				"z" : 19
+			}
+		},
+		"mName" : "How To PlayText"
+	},
+	"How To PlayText101100101" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -1488,437 +2266,7 @@
 		},
 		"mName" : "How To PlayText"
 	},
-	"HowToPlayScreen111001101" : {
-		"SoundEmitter" : {},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 10,
-				"r" : 10,
-				"s" : 10,
-				"t" : 10,
-				"x" : 10,
-				"y" : 10
-			},
-			"translation_" : {
-				"b" : 10,
-				"g" : -16.840232849121094,
-				"p" : 10,
-				"r" : -66.231796264648438,
-				"s" : -66.231796264648438,
-				"t" : -16.840232849121094,
-				"x" : -66.231796264648438,
-				"y" : -16.840232849121094,
-				"z" : 10
-			}
-		},
-		"mName" : "HowToPlayScreen"
-	},
-	"MidCloudBig111001110" : {
-		"Lua Components" : {
-			"FloatyCloud" : {}
-		},
-		"Sprite" : {
-			"color" : {
-				"a" : 1,
-				"b" : 1,
-				"g" : 1,
-				"p" : 1,
-				"q" : 1,
-				"r" : 1,
-				"s" : 1,
-				"t" : 1,
-				"w" : 1,
-				"x" : 1,
-				"y" : 1,
-				"z" : 1
-			},
-			"framesX" : 1,
-			"framesY" : 1,
-			"mirrorX" : false,
-			"shaderFile_" : "",
-			"textureFileName_" : "cloud_02.png"
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 11.3829345703125,
-				"r" : 30.605472564697266,
-				"s" : 30.605472564697266,
-				"t" : 11.3829345703125,
-				"x" : 30.605472564697266,
-				"y" : 11.3829345703125
-			},
-			"translation_" : {
-				"b" : 11,
-				"g" : -66.934555053710938,
-				"p" : 11,
-				"r" : 103.38204193115234,
-				"s" : 103.38204193115234,
-				"t" : -66.934555053710938,
-				"x" : 103.38204193115234,
-				"y" : -66.934555053710938,
-				"z" : 11
-			}
-		},
-		"mName" : "MidCloudBig"
-	},
-	"Play Button111001111" : {
-		"SoundEmitter" : {},
-		"Sprite" : {
-			"color" : {
-				"a" : 1,
-				"b" : 1,
-				"g" : 1,
-				"p" : 1,
-				"q" : 1,
-				"r" : 1,
-				"s" : 1,
-				"t" : 1,
-				"w" : 1,
-				"x" : 1,
-				"y" : 1,
-				"z" : 1
-			},
-			"framesX" : 1,
-			"framesY" : 1,
-			"mirrorX" : false,
-			"shaderFile_" : "",
-			"textureFileName_" : "Button_Up.png"
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 11.629360198974609,
-				"r" : 23.466545104980469,
-				"s" : 23.466545104980469,
-				"t" : 11.629360198974609,
-				"x" : 23.466545104980469,
-				"y" : 11.629360198974609
-			},
-			"translation_" : {
-				"b" : 15,
-				"g" : -19.707208633422852,
-				"p" : 15,
-				"r" : -66.620773315429688,
-				"s" : -66.620773315429688,
-				"t" : -19.707208633422852,
-				"x" : -66.620773315429688,
-				"y" : -19.707208633422852,
-				"z" : 15
-			}
-		},
-		"mName" : "Play Button"
-	},
-	"Play Button111010000" : {
-		"SoundEmitter" : {},
-		"SpriteText" : {
-			"Color" : {
-				"a" : 1,
-				"b" : 0,
-				"g" : 0,
-				"p" : 0,
-				"q" : 1,
-				"r" : 0,
-				"s" : 0,
-				"t" : 0,
-				"w" : 1,
-				"x" : 0,
-				"y" : 0,
-				"z" : 0
-			},
-			"Text" : "Movement",
-			"fontFace_" : "CALIST.TTF"
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 5,
-				"r" : 5,
-				"s" : 5,
-				"t" : 5,
-				"x" : 5,
-				"y" : 5
-			},
-			"translation_" : {
-				"b" : 15,
-				"g" : -11.414721488952637,
-				"p" : 15,
-				"r" : -101.69585418701172,
-				"s" : -101.69585418701172,
-				"t" : -11.414721488952637,
-				"x" : -101.69585418701172,
-				"y" : -11.414721488952637,
-				"z" : 15
-			}
-		},
-		"mName" : "Play Button"
-	},
-	"Play Button111010001" : {
-		"SoundEmitter" : {},
-		"SpriteText" : {
-			"Color" : {
-				"a" : 1,
-				"b" : 0,
-				"g" : 0,
-				"p" : 0,
-				"q" : 1,
-				"r" : 0,
-				"s" : 0,
-				"t" : 0,
-				"w" : 1,
-				"x" : 0,
-				"y" : 0,
-				"z" : 0
-			},
-			"Text" : "Grappling Hook",
-			"fontFace_" : "CALIST.TTF"
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 5,
-				"r" : 5,
-				"s" : 5,
-				"t" : 5,
-				"x" : 5,
-				"y" : 5
-			},
-			"translation_" : {
-				"b" : 15,
-				"g" : -11.599490165710449,
-				"p" : 15,
-				"r" : -66.5731201171875,
-				"s" : -66.5731201171875,
-				"t" : -11.599490165710449,
-				"x" : -66.5731201171875,
-				"y" : -11.599490165710449,
-				"z" : 15
-			}
-		},
-		"mName" : "Play Button"
-	},
-	"Play Button111010010" : {
-		"SoundEmitter" : {},
-		"SpriteText" : {
-			"Color" : {
-				"a" : 1,
-				"b" : 1,
-				"g" : 1,
-				"p" : 1,
-				"q" : 1,
-				"r" : 1,
-				"s" : 1,
-				"t" : 1,
-				"w" : 1,
-				"x" : 1,
-				"y" : 1,
-				"z" : 1
-			},
-			"Text" : "W",
-			"fontFace_" : "CALIST.TTF"
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 4,
-				"r" : 4,
-				"s" : 4,
-				"t" : 4,
-				"x" : 4,
-				"y" : 4
-			},
-			"translation_" : {
-				"b" : 16,
-				"g" : -16.565332412719727,
-				"p" : 16,
-				"r" : -101.989501953125,
-				"s" : -101.989501953125,
-				"t" : -16.565332412719727,
-				"x" : -101.989501953125,
-				"y" : -16.565332412719727,
-				"z" : 16
-			}
-		},
-		"mName" : "Play Button"
-	},
-	"Play Button111010011" : {
-		"SoundEmitter" : {},
-		"SpriteText" : {
-			"Color" : {
-				"a" : 1,
-				"b" : 1,
-				"g" : 1,
-				"p" : 1,
-				"q" : 1,
-				"r" : 1,
-				"s" : 1,
-				"t" : 1,
-				"w" : 1,
-				"x" : 1,
-				"y" : 1,
-				"z" : 1
-			},
-			"Text" : "S",
-			"fontFace_" : "CALIST.TTF"
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 4,
-				"r" : 4,
-				"s" : 4,
-				"t" : 4,
-				"x" : 4,
-				"y" : 4
-			},
-			"translation_" : {
-				"b" : 16,
-				"g" : -21.556118011474609,
-				"p" : 16,
-				"r" : -102.08888244628906,
-				"s" : -102.08888244628906,
-				"t" : -21.556118011474609,
-				"x" : -102.08888244628906,
-				"y" : -21.556118011474609,
-				"z" : 16
-			}
-		},
-		"mName" : "Play Button"
-	},
-	"Play Button111010100" : {
-		"SoundEmitter" : {},
-		"SpriteText" : {
-			"Color" : {
-				"a" : 1,
-				"b" : 1,
-				"g" : 1,
-				"p" : 1,
-				"q" : 1,
-				"r" : 1,
-				"s" : 1,
-				"t" : 1,
-				"w" : 1,
-				"x" : 1,
-				"y" : 1,
-				"z" : 1
-			},
-			"Text" : "A",
-			"fontFace_" : "CALIST.TTF"
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 4,
-				"r" : 4,
-				"s" : 4,
-				"t" : 4,
-				"x" : 4,
-				"y" : 4
-			},
-			"translation_" : {
-				"b" : 16,
-				"g" : -21.56878662109375,
-				"p" : 16,
-				"r" : -107.27980041503906,
-				"s" : -107.27980041503906,
-				"t" : -21.56878662109375,
-				"x" : -107.27980041503906,
-				"y" : -21.56878662109375,
-				"z" : 16
-			}
-		},
-		"mName" : "Play Button"
-	},
-	"Play Button111010101" : {
-		"SoundEmitter" : {},
-		"SpriteText" : {
-			"Color" : {
-				"a" : 1,
-				"b" : 1,
-				"g" : 1,
-				"p" : 1,
-				"q" : 1,
-				"r" : 1,
-				"s" : 1,
-				"t" : 1,
-				"w" : 1,
-				"x" : 1,
-				"y" : 1,
-				"z" : 1
-			},
-			"Text" : "D",
-			"fontFace_" : "CALIST.TTF"
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 4,
-				"r" : 4,
-				"s" : 4,
-				"t" : 4,
-				"x" : 4,
-				"y" : 4
-			},
-			"translation_" : {
-				"b" : 16,
-				"g" : -21.60679817199707,
-				"p" : 16,
-				"r" : -96.443824768066406,
-				"s" : -96.443824768066406,
-				"t" : -21.60679817199707,
-				"x" : -96.443824768066406,
-				"y" : -21.60679817199707,
-				"z" : 16
-			}
-		},
-		"mName" : "Play Button"
-	},
-	"Play Button111010110" : {
-		"SoundEmitter" : {},
-		"SpriteText" : {
-			"Color" : {
-				"a" : 1,
-				"b" : 1,
-				"g" : 1,
-				"p" : 1,
-				"q" : 1,
-				"r" : 1,
-				"s" : 1,
-				"t" : 1,
-				"w" : 1,
-				"x" : 1,
-				"y" : 1,
-				"z" : 1
-			},
-			"Text" : "Hold Left Mouse",
-			"fontFace_" : "CALIST.TTF"
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 4,
-				"r" : 4,
-				"s" : 4,
-				"t" : 4,
-				"x" : 4,
-				"y" : 4
-			},
-			"translation_" : {
-				"b" : 16,
-				"g" : -19.346691131591797,
-				"p" : 16,
-				"r" : -66.492294311523438,
-				"s" : -66.492294311523438,
-				"t" : -19.346691131591797,
-				"x" : -66.492294311523438,
-				"y" : -19.346691131591797,
-				"z" : 16
-			}
-		},
-		"mName" : "Play Button"
-	},
-	"Play Button111010111" : {
+	"HowToPlayMainButton101111010" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {
@@ -1954,7 +2302,7 @@
 					"Type" : "Texture"
 				},
 				"OnTexture" : {
-					"Data" : "Button_Up.png",
+					"Data" : "Button_Down.png",
 					"Type" : "Texture"
 				},
 				"OnlyOnPause" : {
@@ -1966,11 +2314,11 @@
 					"Type" : "Texture"
 				},
 				"OverSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonOver",
 					"Type" : "SoundEvent"
 				},
 				"SelectSound" : {
-					"Data" : "None",
+					"Data" : "PlayButtonDown",
 					"Type" : "SoundEvent"
 				},
 				"Target" : {
@@ -1978,7 +2326,7 @@
 					"Type" : "Cog"
 				},
 				"WorldCameraSpeed" : {
-					"Data" : 50,
+					"Data" : 60,
 					"Type" : "Integer"
 				},
 				"WorldCameraTarget" : {
@@ -2012,184 +2360,28 @@
 		"Transform" : {
 			"rotation_" : 0,
 			"scale_" : {
-				"g" : 5.8766231536865234,
-				"r" : 22.109539031982422,
-				"s" : 22.109539031982422,
-				"t" : 5.8766231536865234,
-				"x" : 22.109539031982422,
-				"y" : 5.8766231536865234
-			},
-			"translation_" : {
-				"b" : 0,
-				"g" : 0,
-				"p" : 0,
-				"r" : 0,
-				"s" : 0,
-				"t" : 0,
-				"x" : 0,
-				"y" : 0,
-				"z" : 0
-			}
-		},
-		"mName" : "Play Button"
-	},
-	"Play Button111011000" : {
-		"SoundEmitter" : {},
-		"SpriteText" : {
-			"Color" : {
-				"a" : 1,
-				"b" : 1,
-				"g" : 1,
-				"p" : 1,
-				"q" : 1,
-				"r" : 1,
-				"s" : 1,
-				"t" : 1,
-				"w" : 1,
-				"x" : 1,
-				"y" : 1,
-				"z" : 1
-			},
-			"Text" : "Return",
-			"fontFace_" : "CALIST.TTF"
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 4,
-				"r" : 4,
-				"s" : 4,
-				"t" : 4,
-				"x" : 4,
-				"y" : 4
-			},
-			"translation_" : {
-				"b" : 16,
-				"g" : -28.874309539794922,
-				"p" : 16,
-				"r" : -86.944282531738281,
-				"s" : -86.944282531738281,
-				"t" : -28.874309539794922,
-				"x" : -86.944282531738281,
-				"y" : -28.874309539794922,
-				"z" : 16
-			}
-		},
-		"mName" : "Play Button"
-	},
-	"Play Button111011001" : {
-		"ButtonComponent" : {
-			"closesGame_" : false,
-			"downFile_" : "Button_Down.png",
-			"loadsDemo_" : true,
-			"loadsMainMenu_" : false,
-			"offFile_" : "Button_Up.png",
-			"outFile_" : "Button_Up.png",
-			"overFile_" : "Button_Down.png"
-		},
-		"SoundEmitter" : {},
-		"Sprite" : {
-			"color" : {
-				"a" : 1,
-				"b" : 1,
-				"g" : 1,
-				"p" : 1,
-				"q" : 1,
-				"r" : 1,
-				"s" : 1,
-				"t" : 1,
-				"w" : 1,
-				"x" : 1,
-				"y" : 1,
-				"z" : 1
-			},
-			"framesX" : 1,
-			"framesY" : 1,
-			"mirrorX" : false,
-			"shaderFile_" : "",
-			"textureFileName_" : "Button_Up.png"
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 5.7151851654052734,
-				"r" : 21.796806335449219,
-				"s" : 21.796806335449219,
-				"t" : 5.7151851654052734,
-				"x" : 21.796806335449219,
-				"y" : 5.7151851654052734
+				"g" : 5.3005752563476563,
+				"r" : 22.102378845214844,
+				"s" : 22.102378845214844,
+				"t" : 5.3005752563476563,
+				"x" : 22.102378845214844,
+				"y" : 5.3005752563476563
 			},
 			"translation_" : {
 				"b" : 15,
-				"g" : -20.64460563659668,
+				"g" : -28.501737594604492,
 				"p" : 15,
-				"r" : 29.763271331787109,
-				"s" : 29.763271331787109,
-				"t" : -20.64460563659668,
-				"x" : 29.763271331787109,
-				"y" : -20.64460563659668,
+				"r" : 29.848043441772461,
+				"s" : 29.848043441772461,
+				"t" : -28.501737594604492,
+				"x" : 29.848043441772461,
+				"y" : -28.501737594604492,
 				"z" : 15
 			}
 		},
-		"mName" : "Play Button"
+		"mName" : "HowToPlayMainButton"
 	},
-	"Play Button111011010" : {
-		"ButtonComponent" : {
-			"closesGame_" : true,
-			"downFile_" : "Button_Down.png",
-			"loadsDemo_" : false,
-			"loadsMainMenu_" : false,
-			"offFile_" : "Button_Up.png",
-			"outFile_" : "Button_Up.png",
-			"overFile_" : "Button_Down.png"
-		},
-		"SoundEmitter" : {},
-		"Sprite" : {
-			"color" : {
-				"a" : 1,
-				"b" : 1,
-				"g" : 1,
-				"p" : 1,
-				"q" : 1,
-				"r" : 1,
-				"s" : 1,
-				"t" : 1,
-				"w" : 1,
-				"x" : 1,
-				"y" : 1,
-				"z" : 1
-			},
-			"framesX" : 1,
-			"framesY" : 1,
-			"mirrorX" : false,
-			"shaderFile_" : "",
-			"textureFileName_" : "Button_Up.png"
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 5.7151851654052734,
-				"r" : 21.982315063476563,
-				"s" : 21.982315063476563,
-				"t" : 5.7151851654052734,
-				"x" : 21.982315063476563,
-				"y" : 5.7151851654052734
-			},
-			"translation_" : {
-				"b" : 15,
-				"g" : -36.352241516113281,
-				"p" : 15,
-				"r" : 29.856025695800781,
-				"s" : 29.856025695800781,
-				"t" : -36.352241516113281,
-				"x" : 29.856025695800781,
-				"y" : -36.352241516113281,
-				"z" : 15
-			}
-		},
-		"mName" : "Play Button"
-	},
-	"Play Button111011011" : {
+	"HowToPlayReturnButton101110111" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {
@@ -2302,9 +2494,36 @@
 				"z" : 15
 			}
 		},
-		"mName" : "Play Button"
+		"mName" : "HowToPlayReturnButton"
 	},
-	"Play Button111011100" : {
+	"HowToPlayScreen101100110" : {
+		"SoundEmitter" : {},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 10,
+				"r" : 10,
+				"s" : 10,
+				"t" : 10,
+				"x" : 10,
+				"y" : 10
+			},
+			"translation_" : {
+				"b" : 10,
+				"g" : -16.840232849121094,
+				"p" : 10,
+				"r" : -66.231796264648438,
+				"s" : -66.231796264648438,
+				"t" : -16.840232849121094,
+				"x" : -66.231796264648438,
+				"y" : -16.840232849121094,
+				"z" : 10
+			}
+		},
+		"mName" : "HowToPlayScreen"
+	},
+	"HowToPlayText101111000" : {
+		"Lua Components" : {},
 		"SoundEmitter" : {},
 		"SpriteText" : {
 			"Color" : {
@@ -2346,9 +2565,58 @@
 				"z" : 15
 			}
 		},
-		"mName" : "Play Button"
+		"mName" : "HowToPlayText"
 	},
-	"Play Button111011101" : {
+	"MidCloudBig101100111" : {
+		"Lua Components" : {
+			"FloatyCloud" : {}
+		},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "cloud_02.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 11.3829345703125,
+				"r" : 30.605472564697266,
+				"s" : 30.605472564697266,
+				"t" : 11.3829345703125,
+				"x" : 30.605472564697266,
+				"y" : 11.3829345703125
+			},
+			"translation_" : {
+				"b" : 11,
+				"g" : -66.934555053710938,
+				"p" : 11,
+				"r" : 103.38204193115234,
+				"s" : 103.38204193115234,
+				"t" : -66.934555053710938,
+				"x" : 103.38204193115234,
+				"y" : -66.934555053710938,
+				"z" : 11
+			}
+		},
+		"mName" : "MidCloudBig"
+	},
+	"Play Button101101000" : {
 		"SoundEmitter" : {},
 		"Sprite" : {
 			"color" : {
@@ -2383,23 +2651,684 @@
 			},
 			"translation_" : {
 				"b" : 15,
-				"g" : -21.523643493652344,
+				"g" : -21.574325561523438,
 				"p" : 15,
-				"r" : -107.31039428710938,
-				"s" : -107.31039428710938,
-				"t" : -21.523643493652344,
-				"x" : -107.31039428710938,
-				"y" : -21.523643493652344,
+				"r" : -96.566429138183594,
+				"s" : -96.566429138183594,
+				"t" : -21.574325561523438,
+				"x" : -96.566429138183594,
+				"y" : -21.574325561523438,
 				"z" : 15
 			}
 		},
 		"mName" : "Play Button"
 	},
-	"Play Button111011110" : {
+	"Play Button101101001" : {
+		"SoundEmitter" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Button_Up.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 4.3588237762451172,
+				"r" : 4.0611419677734375,
+				"s" : 4.0611419677734375,
+				"t" : 4.3588237762451172,
+				"x" : 4.0611419677734375,
+				"y" : 4.3588237762451172
+			},
+			"translation_" : {
+				"b" : 15,
+				"g" : -16.572467803955078,
+				"p" : 15,
+				"r" : -101.9464111328125,
+				"s" : -101.9464111328125,
+				"t" : -16.572467803955078,
+				"x" : -101.9464111328125,
+				"y" : -16.572467803955078,
+				"z" : 15
+			}
+		},
+		"mName" : "Play Button"
+	},
+	"Play Button101101010" : {
+		"SoundEmitter" : {},
+		"SpriteText" : {
+			"Color" : {
+				"a" : 1,
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"q" : 1,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"w" : 1,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			},
+			"Text" : "Movement",
+			"fontFace_" : ""
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 3,
+				"r" : 5,
+				"s" : 5,
+				"t" : 3,
+				"x" : 5,
+				"y" : 3
+			},
+			"translation_" : {
+				"b" : 15,
+				"g" : -12.647489547729492,
+				"p" : 15,
+				"r" : -75.067276000976563,
+				"s" : -75.067276000976563,
+				"t" : -12.647489547729492,
+				"x" : -75.067276000976563,
+				"y" : -12.647489547729492,
+				"z" : 15
+			}
+		},
+		"mName" : "Play Button"
+	},
+	"Play Button101101011" : {
+		"SoundEmitter" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Button_Up.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 11.629360198974609,
+				"r" : 23.466545104980469,
+				"s" : 23.466545104980469,
+				"t" : 11.629360198974609,
+				"x" : 23.466545104980469,
+				"y" : 11.629360198974609
+			},
+			"translation_" : {
+				"b" : 15,
+				"g" : -19.707208633422852,
+				"p" : 15,
+				"r" : -66.620773315429688,
+				"s" : -66.620773315429688,
+				"t" : -19.707208633422852,
+				"x" : -66.620773315429688,
+				"y" : -19.707208633422852,
+				"z" : 15
+			}
+		},
+		"mName" : "Play Button"
+	},
+	"Play Button101101100" : {
+		"SoundEmitter" : {},
+		"SpriteText" : {
+			"Color" : {
+				"a" : 1,
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"q" : 1,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"w" : 1,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			},
+			"Text" : "Movement",
+			"fontFace_" : "CALIST.TTF"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 5,
+				"r" : 5,
+				"s" : 5,
+				"t" : 5,
+				"x" : 5,
+				"y" : 5
+			},
+			"translation_" : {
+				"b" : 15,
+				"g" : -11.414721488952637,
+				"p" : 15,
+				"r" : -101.69585418701172,
+				"s" : -101.69585418701172,
+				"t" : -11.414721488952637,
+				"x" : -101.69585418701172,
+				"y" : -11.414721488952637,
+				"z" : 15
+			}
+		},
+		"mName" : "Play Button"
+	},
+	"Play Button101101101" : {
+		"SoundEmitter" : {},
+		"SpriteText" : {
+			"Color" : {
+				"a" : 1,
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"q" : 1,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"w" : 1,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			},
+			"Text" : "Grappling Hook",
+			"fontFace_" : "CALIST.TTF"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 5,
+				"r" : 5,
+				"s" : 5,
+				"t" : 5,
+				"x" : 5,
+				"y" : 5
+			},
+			"translation_" : {
+				"b" : 15,
+				"g" : -11.599490165710449,
+				"p" : 15,
+				"r" : -66.5731201171875,
+				"s" : -66.5731201171875,
+				"t" : -11.599490165710449,
+				"x" : -66.5731201171875,
+				"y" : -11.599490165710449,
+				"z" : 15
+			}
+		},
+		"mName" : "Play Button"
+	},
+	"Play Button101101110" : {
+		"SoundEmitter" : {},
+		"SpriteText" : {
+			"Color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"Text" : "W",
+			"fontFace_" : "CALIST.TTF"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 4,
+				"r" : 4,
+				"s" : 4,
+				"t" : 4,
+				"x" : 4,
+				"y" : 4
+			},
+			"translation_" : {
+				"b" : 16,
+				"g" : -16.565332412719727,
+				"p" : 16,
+				"r" : -101.989501953125,
+				"s" : -101.989501953125,
+				"t" : -16.565332412719727,
+				"x" : -101.989501953125,
+				"y" : -16.565332412719727,
+				"z" : 16
+			}
+		},
+		"mName" : "Play Button"
+	},
+	"Play Button101101111" : {
+		"SoundEmitter" : {},
+		"SpriteText" : {
+			"Color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"Text" : "S",
+			"fontFace_" : "CALIST.TTF"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 4,
+				"r" : 4,
+				"s" : 4,
+				"t" : 4,
+				"x" : 4,
+				"y" : 4
+			},
+			"translation_" : {
+				"b" : 16,
+				"g" : -21.556118011474609,
+				"p" : 16,
+				"r" : -102.08888244628906,
+				"s" : -102.08888244628906,
+				"t" : -21.556118011474609,
+				"x" : -102.08888244628906,
+				"y" : -21.556118011474609,
+				"z" : 16
+			}
+		},
+		"mName" : "Play Button"
+	},
+	"Play Button101110000" : {
+		"SoundEmitter" : {},
+		"SpriteText" : {
+			"Color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"Text" : "A",
+			"fontFace_" : "CALIST.TTF"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 4,
+				"r" : 4,
+				"s" : 4,
+				"t" : 4,
+				"x" : 4,
+				"y" : 4
+			},
+			"translation_" : {
+				"b" : 16,
+				"g" : -21.56878662109375,
+				"p" : 16,
+				"r" : -107.27980041503906,
+				"s" : -107.27980041503906,
+				"t" : -21.56878662109375,
+				"x" : -107.27980041503906,
+				"y" : -21.56878662109375,
+				"z" : 16
+			}
+		},
+		"mName" : "Play Button"
+	},
+	"Play Button101110001" : {
+		"SoundEmitter" : {},
+		"SpriteText" : {
+			"Color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"Text" : "D",
+			"fontFace_" : "CALIST.TTF"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 4,
+				"r" : 4,
+				"s" : 4,
+				"t" : 4,
+				"x" : 4,
+				"y" : 4
+			},
+			"translation_" : {
+				"b" : 16,
+				"g" : -21.60679817199707,
+				"p" : 16,
+				"r" : -96.443824768066406,
+				"s" : -96.443824768066406,
+				"t" : -21.60679817199707,
+				"x" : -96.443824768066406,
+				"y" : -21.60679817199707,
+				"z" : 16
+			}
+		},
+		"mName" : "Play Button"
+	},
+	"Play Button101110010" : {
+		"SoundEmitter" : {},
+		"SpriteText" : {
+			"Color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"Text" : "Hold Left Mouse",
+			"fontFace_" : "CALIST.TTF"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 4,
+				"r" : 4,
+				"s" : 4,
+				"t" : 4,
+				"x" : 4,
+				"y" : 4
+			},
+			"translation_" : {
+				"b" : 16,
+				"g" : -19.346691131591797,
+				"p" : 16,
+				"r" : -66.492294311523438,
+				"s" : -66.492294311523438,
+				"t" : -19.346691131591797,
+				"x" : -66.492294311523438,
+				"y" : -19.346691131591797,
+				"z" : 16
+			}
+		},
+		"mName" : "Play Button"
+	},
+	"Play Button101110011" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {
 					"Data" : 1,
+					"Type" : "Integer"
+				},
+				"CameraTarget" : {
+					"Data" : "None",
+					"Type" : "Cog"
+				},
+				"Component" : {
+					"Data" : "None",
+					"Type" : "Component"
+				},
+				"DownTexture" : {
+					"Data" : "Button_Down.png",
+					"Type" : "Texture"
+				},
+				"ExitGame" : {
+					"Data" : false,
+					"Type" : "Bool"
+				},
+				"Function" : {
+					"Data" : "None",
+					"Type" : "Function"
+				},
+				"LevelToLoad" : {
+					"Data" : "None",
+					"Type" : "Level"
+				},
+				"OffTexture" : {
+					"Data" : "Button_Up.png",
+					"Type" : "Texture"
+				},
+				"OnTexture" : {
+					"Data" : "Button_Down.png",
+					"Type" : "Texture"
+				},
+				"OnlyOnPause" : {
+					"Data" : false,
+					"Type" : "Boollock"
+				},
+				"OutTexture" : {
+					"Data" : "Button_Up.png",
+					"Type" : "Texture"
+				},
+				"OverSound" : {
+					"Data" : "None",
+					"Type" : "SoundEvent"
+				},
+				"SelectSound" : {
+					"Data" : "None",
+					"Type" : "SoundEvent"
+				},
+				"Target" : {
+					"Data" : "None",
+					"Type" : "Cog"
+				},
+				"WorldCameraSpeed" : {
+					"Data" : 50,
+					"Type" : "Integer"
+				},
+				"WorldCameraTarget" : {
+					"Data" : "HowToPlayScreen",
+					"Type" : "Cog"
+				}
+			}
+		},
+		"SoundEmitter" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Button_Up.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 5.8766231536865234,
+				"r" : 22.109539031982422,
+				"s" : 22.109539031982422,
+				"t" : 5.8766231536865234,
+				"x" : 22.109539031982422,
+				"y" : 5.8766231536865234
+			},
+			"translation_" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"mName" : "Play Button"
+	},
+	"Play Button101110100" : {
+		"SoundEmitter" : {},
+		"SpriteText" : {
+			"Color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"Text" : "Return",
+			"fontFace_" : "CALIST.TTF"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 4,
+				"r" : 4,
+				"s" : 4,
+				"t" : 4,
+				"x" : 4,
+				"y" : 4
+			},
+			"translation_" : {
+				"b" : 16,
+				"g" : -28.874309539794922,
+				"p" : 16,
+				"r" : -86.944282531738281,
+				"s" : -86.944282531738281,
+				"t" : -28.874309539794922,
+				"x" : -86.944282531738281,
+				"y" : -28.874309539794922,
+				"z" : 16
+			}
+		},
+		"mName" : "Play Button"
+	},
+	"Play Button101110101" : {
+		"ButtonComponent" : {
+			"closesGame_" : false,
+			"downFile_" : "Button_Down.png",
+			"loadsDemo_" : true,
+			"loadsMainMenu_" : false,
+			"offFile_" : "Button_Up.png",
+			"outFile_" : "Button_Up.png",
+			"overFile_" : "Button_Down.png"
+		},
+		"SoundEmitter" : {},
+		"Sprite" : {
+			"color" : {
+				"a" : 1,
+				"b" : 1,
+				"g" : 1,
+				"p" : 1,
+				"q" : 1,
+				"r" : 1,
+				"s" : 1,
+				"t" : 1,
+				"w" : 1,
+				"x" : 1,
+				"y" : 1,
+				"z" : 1
+			},
+			"framesX" : 1,
+			"framesY" : 1,
+			"mirrorX" : false,
+			"shaderFile_" : "",
+			"textureFileName_" : "Button_Up.png"
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 5.7151851654052734,
+				"r" : 21.796806335449219,
+				"s" : 21.796806335449219,
+				"t" : 5.7151851654052734,
+				"x" : 21.796806335449219,
+				"y" : 5.7151851654052734
+			},
+			"translation_" : {
+				"b" : 15,
+				"g" : -20.64460563659668,
+				"p" : 15,
+				"r" : 29.763271331787109,
+				"s" : 29.763271331787109,
+				"t" : -20.64460563659668,
+				"x" : 29.763271331787109,
+				"y" : -20.64460563659668,
+				"z" : 15
+			}
+		},
+		"mName" : "Play Button"
+	},
+	"Play Button101110110" : {
+		"Lua Components" : {
+			"ButtonComponent" : {
+				"CameraSpeed" : {
+					"Data" : 1000,
 					"Type" : "Integer"
 				},
 				"CameraTarget" : {
@@ -2455,11 +3384,11 @@
 					"Type" : "Cog"
 				},
 				"WorldCameraSpeed" : {
-					"Data" : 50,
+					"Data" : 60,
 					"Type" : "Integer"
 				},
 				"WorldCameraTarget" : {
-					"Data" : "HowToPlayScreen",
+					"Data" : "ExitYES",
 					"Type" : "Cog"
 				}
 			}
@@ -2489,28 +3418,28 @@
 		"Transform" : {
 			"rotation_" : 0,
 			"scale_" : {
-				"g" : 5.3005752563476563,
-				"r" : 22.102378845214844,
-				"s" : 22.102378845214844,
-				"t" : 5.3005752563476563,
-				"x" : 22.102378845214844,
-				"y" : 5.3005752563476563
+				"g" : 5.7151851654052734,
+				"r" : 21.982315063476563,
+				"s" : 21.982315063476563,
+				"t" : 5.7151851654052734,
+				"x" : 21.982315063476563,
+				"y" : 5.7151851654052734
 			},
 			"translation_" : {
 				"b" : 15,
-				"g" : -28.501737594604492,
+				"g" : -36.352241516113281,
 				"p" : 15,
-				"r" : 29.848043441772461,
-				"s" : 29.848043441772461,
-				"t" : -28.501737594604492,
-				"x" : 29.848043441772461,
-				"y" : -28.501737594604492,
+				"r" : 29.856025695800781,
+				"s" : 29.856025695800781,
+				"t" : -36.352241516113281,
+				"x" : 29.856025695800781,
+				"y" : -36.352241516113281,
 				"z" : 15
 			}
 		},
 		"mName" : "Play Button"
 	},
-	"Play Button111011111" : {
+	"Play Button101111011" : {
 		"SoundEmitter" : {},
 		"Sprite" : {
 			"color" : {
@@ -2557,145 +3486,8 @@
 		},
 		"mName" : "Play Button"
 	},
-	"Play Button111100000" : {
-		"SoundEmitter" : {},
-		"Sprite" : {
-			"color" : {
-				"a" : 1,
-				"b" : 1,
-				"g" : 1,
-				"p" : 1,
-				"q" : 1,
-				"r" : 1,
-				"s" : 1,
-				"t" : 1,
-				"w" : 1,
-				"x" : 1,
-				"y" : 1,
-				"z" : 1
-			},
-			"framesX" : 1,
-			"framesY" : 1,
-			"mirrorX" : false,
-			"shaderFile_" : "",
-			"textureFileName_" : "Button_Up.png"
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 4.3588237762451172,
-				"r" : 4.0611419677734375,
-				"s" : 4.0611419677734375,
-				"t" : 4.3588237762451172,
-				"x" : 4.0611419677734375,
-				"y" : 4.3588237762451172
-			},
-			"translation_" : {
-				"b" : 15,
-				"g" : -21.574325561523438,
-				"p" : 15,
-				"r" : -96.566429138183594,
-				"s" : -96.566429138183594,
-				"t" : -21.574325561523438,
-				"x" : -96.566429138183594,
-				"y" : -21.574325561523438,
-				"z" : 15
-			}
-		},
-		"mName" : "Play Button"
-	},
-	"Play Button111100001" : {
-		"SoundEmitter" : {},
-		"Sprite" : {
-			"color" : {
-				"a" : 1,
-				"b" : 1,
-				"g" : 1,
-				"p" : 1,
-				"q" : 1,
-				"r" : 1,
-				"s" : 1,
-				"t" : 1,
-				"w" : 1,
-				"x" : 1,
-				"y" : 1,
-				"z" : 1
-			},
-			"framesX" : 1,
-			"framesY" : 1,
-			"mirrorX" : false,
-			"shaderFile_" : "",
-			"textureFileName_" : "Button_Up.png"
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 4.3588237762451172,
-				"r" : 4.0611419677734375,
-				"s" : 4.0611419677734375,
-				"t" : 4.3588237762451172,
-				"x" : 4.0611419677734375,
-				"y" : 4.3588237762451172
-			},
-			"translation_" : {
-				"b" : 15,
-				"g" : -16.572467803955078,
-				"p" : 15,
-				"r" : -101.9464111328125,
-				"s" : -101.9464111328125,
-				"t" : -16.572467803955078,
-				"x" : -101.9464111328125,
-				"y" : -16.572467803955078,
-				"z" : 15
-			}
-		},
-		"mName" : "Play Button"
-	},
-	"Play Button111100010" : {
-		"SoundEmitter" : {},
-		"SpriteText" : {
-			"Color" : {
-				"a" : 1,
-				"b" : 0,
-				"g" : 0,
-				"p" : 0,
-				"q" : 1,
-				"r" : 0,
-				"s" : 0,
-				"t" : 0,
-				"w" : 1,
-				"x" : 0,
-				"y" : 0,
-				"z" : 0
-			},
-			"Text" : "Movement",
-			"fontFace_" : ""
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 3,
-				"r" : 5,
-				"s" : 5,
-				"t" : 3,
-				"x" : 5,
-				"y" : 3
-			},
-			"translation_" : {
-				"b" : 15,
-				"g" : -12.647489547729492,
-				"p" : 15,
-				"r" : -75.067276000976563,
-				"s" : -75.067276000976563,
-				"t" : -12.647489547729492,
-				"x" : -75.067276000976563,
-				"y" : -12.647489547729492,
-				"z" : 15
-			}
-		},
-		"mName" : "Play Button"
-	},
-	"PlayText111100011" : {
+	"PlayText101111100" : {
+		"Lua Components" : {},
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,

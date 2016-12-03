@@ -205,7 +205,7 @@
 					"Type" : "Texture"
 				},
 				"OnTexture" : {
-					"Data" : "Button_Down.png",
+					"Data" : "Button_Up.png",
 					"Type" : "Texture"
 				},
 				"OnlyOnPause" : {
@@ -414,7 +414,7 @@
 					"Type" : "Texture"
 				},
 				"OnTexture" : {
-					"Data" : "Button_Down.png",
+					"Data" : "Button_Up.png",
 					"Type" : "Texture"
 				},
 				"OnlyOnPause" : {
@@ -854,7 +854,7 @@
 					"Type" : "Texture"
 				},
 				"OnTexture" : {
-					"Data" : "Button_Down.png",
+					"Data" : "Button_Up.png",
 					"Type" : "Texture"
 				},
 				"OnlyOnPause" : {
@@ -1086,7 +1086,7 @@
 					"Type" : "Texture"
 				},
 				"OnTexture" : {
-					"Data" : "Button_Down.png",
+					"Data" : "Button_Up.png",
 					"Type" : "Texture"
 				},
 				"OnlyOnPause" : {
@@ -1901,7 +1901,7 @@
 					"Type" : "Texture"
 				},
 				"OnTexture" : {
-					"Data" : "Button_Down.png",
+					"Data" : "Button_Up.png",
 					"Type" : "Texture"
 				},
 				"OnlyOnPause" : {
@@ -2606,7 +2606,7 @@
 					"Type" : "Texture"
 				},
 				"OnTexture" : {
-					"Data" : "Button_Down.png",
+					"Data" : "Button_Up.png",
 					"Type" : "Texture"
 				},
 				"OnlyOnPause" : {
