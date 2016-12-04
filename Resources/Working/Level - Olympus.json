@@ -1,5 +1,5 @@
 {
-	"Alatheia11011010" : {
+	"Alatheia10010" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 50,
@@ -131,7 +131,7 @@
 		},
 		"mName" : "Alatheia"
 	},
-	"BrickGround11011011" : {
+	"BrickGround10011" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -177,7 +177,7 @@
 		},
 		"mName" : "BrickGround"
 	},
-	"Checkpoint 111011100" : {
+	"Checkpoint 110100" : {
 		"Lua Components" : {
 			"Checkpoint" : {
 				"IsWin" : {
@@ -243,7 +243,7 @@
 		},
 		"mName" : "Checkpoint 1"
 	},
-	"Checkpoint 211011101" : {
+	"Checkpoint 210101" : {
 		"Lua Components" : {
 			"Checkpoint" : {
 				"IsWin" : {
@@ -309,7 +309,7 @@
 		},
 		"mName" : "Checkpoint 2"
 	},
-	"Checkpoint 311011110" : {
+	"Checkpoint 310110" : {
 		"Lua Components" : {
 			"Checkpoint" : {
 				"IsWin" : {
@@ -375,7 +375,7 @@
 		},
 		"mName" : "Checkpoint 3"
 	},
-	"Checkpoint 411011111" : {
+	"Checkpoint 410111" : {
 		"Lua Components" : {
 			"Checkpoint" : {
 				"IsWin" : {
@@ -441,7 +441,7 @@
 		},
 		"mName" : "Checkpoint 4"
 	},
-	"Checkpoint 511100000" : {
+	"Checkpoint 511000" : {
 		"Lua Components" : {
 			"Checkpoint" : {
 				"IsWin" : {
@@ -507,7 +507,7 @@
 		},
 		"mName" : "Checkpoint 5"
 	},
-	"Checkpoint 611100001" : {
+	"Checkpoint 611001" : {
 		"Lua Components" : {
 			"Checkpoint" : {
 				"IsWin" : {
@@ -573,7 +573,7 @@
 		},
 		"mName" : "Checkpoint 6"
 	},
-	"Checkpoint End11100010" : {
+	"Checkpoint End11010" : {
 		"Lua Components" : {
 			"Checkpoint" : {
 				"IsWin" : {
@@ -639,257 +639,7 @@
 		},
 		"mName" : "Checkpoint End"
 	},
-	"CollisionBox11100011" : {
-		"BoxColliderComp" : {
-			"collider_scale_" : {
-				"g" : 20,
-				"r" : 290,
-				"s" : 290,
-				"t" : 20,
-				"x" : 290,
-				"y" : 20
-			},
-			"offset_from_obj" : {
-				"b" : 0,
-				"g" : 0,
-				"p" : 0,
-				"r" : 0,
-				"s" : 0,
-				"t" : 0,
-				"x" : 0,
-				"y" : 0,
-				"z" : 0
-			}
-		},
-		"RigidBody" : {
-			"hasGravity_" : false,
-			"static_" : true
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 149.22616577148438,
-				"r" : 161.96539306640625,
-				"s" : 161.96539306640625,
-				"t" : 149.22616577148438,
-				"x" : 161.96539306640625,
-				"y" : 149.22616577148438
-			},
-			"translation_" : {
-				"b" : 5,
-				"g" : -128.70111083984375,
-				"p" : 5,
-				"r" : 1739.677978515625,
-				"s" : 1739.677978515625,
-				"t" : -128.70111083984375,
-				"x" : 1739.677978515625,
-				"y" : -128.70111083984375,
-				"z" : 5
-			}
-		},
-		"mName" : "CollisionBox"
-	},
-	"CollisionBox11100100" : {
-		"BoxColliderComp" : {
-			"collider_scale_" : {
-				"g" : 20,
-				"r" : 260,
-				"s" : 260,
-				"t" : 20,
-				"x" : 260,
-				"y" : 20
-			},
-			"offset_from_obj" : {
-				"b" : 0,
-				"g" : 0,
-				"p" : 0,
-				"r" : 0,
-				"s" : 0,
-				"t" : 0,
-				"x" : 0,
-				"y" : 0,
-				"z" : 0
-			}
-		},
-		"RigidBody" : {
-			"hasGravity_" : false,
-			"static_" : true
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 140.10411071777344,
-				"r" : 138.677734375,
-				"s" : 138.677734375,
-				"t" : 140.10411071777344,
-				"x" : 138.677734375,
-				"y" : 140.10411071777344
-			},
-			"translation_" : {
-				"b" : 5,
-				"g" : -273.8487548828125,
-				"p" : 5,
-				"r" : 3308.106201171875,
-				"s" : 3308.106201171875,
-				"t" : -273.8487548828125,
-				"x" : 3308.106201171875,
-				"y" : -273.8487548828125,
-				"z" : 5
-			}
-		},
-		"mName" : "CollisionBox"
-	},
-	"CollisionBox11100101" : {
-		"BoxColliderComp" : {
-			"collider_scale_" : {
-				"g" : 20,
-				"r" : 260,
-				"s" : 260,
-				"t" : 20,
-				"x" : 260,
-				"y" : 20
-			},
-			"offset_from_obj" : {
-				"b" : 0,
-				"g" : 0,
-				"p" : 0,
-				"r" : 0,
-				"s" : 0,
-				"t" : 0,
-				"x" : 0,
-				"y" : 0,
-				"z" : 0
-			}
-		},
-		"RigidBody" : {
-			"hasGravity_" : false,
-			"static_" : true
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 140.10411071777344,
-				"r" : 138.677734375,
-				"s" : 138.677734375,
-				"t" : 140.10411071777344,
-				"x" : 138.677734375,
-				"y" : 140.10411071777344
-			},
-			"translation_" : {
-				"b" : 5,
-				"g" : 106.65083312988281,
-				"p" : 5,
-				"r" : 2575.588134765625,
-				"s" : 2575.588134765625,
-				"t" : 106.65083312988281,
-				"x" : 2575.588134765625,
-				"y" : 106.65083312988281,
-				"z" : 5
-			}
-		},
-		"mName" : "CollisionBox"
-	},
-	"CollisionBox11100110" : {
-		"BoxColliderComp" : {
-			"collider_scale_" : {
-				"g" : 30,
-				"r" : 260,
-				"s" : 260,
-				"t" : 30,
-				"x" : 260,
-				"y" : 30
-			},
-			"offset_from_obj" : {
-				"b" : 0,
-				"g" : 0,
-				"p" : 0,
-				"r" : 0,
-				"s" : 0,
-				"t" : 0,
-				"x" : 0,
-				"y" : 0,
-				"z" : 0
-			}
-		},
-		"RigidBody" : {
-			"hasGravity_" : false,
-			"static_" : true
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 140.10411071777344,
-				"r" : 138.677734375,
-				"s" : 138.677734375,
-				"t" : 140.10411071777344,
-				"x" : 138.677734375,
-				"y" : 140.10411071777344
-			},
-			"translation_" : {
-				"b" : 10,
-				"g" : 144.07080078125,
-				"p" : 10,
-				"r" : 3257.06298828125,
-				"s" : 3257.06298828125,
-				"t" : 144.07080078125,
-				"x" : 3257.06298828125,
-				"y" : 144.07080078125,
-				"z" : 10
-			}
-		},
-		"mName" : "CollisionBox"
-	},
-	"CollisionBox11100111" : {
-		"BoxColliderComp" : {
-			"collider_scale_" : {
-				"g" : 30,
-				"r" : 260,
-				"s" : 260,
-				"t" : 30,
-				"x" : 260,
-				"y" : 30
-			},
-			"offset_from_obj" : {
-				"b" : 0,
-				"g" : 0,
-				"p" : 0,
-				"r" : 0,
-				"s" : 0,
-				"t" : 0,
-				"x" : 0,
-				"y" : 0,
-				"z" : 0
-			}
-		},
-		"RigidBody" : {
-			"hasGravity_" : false,
-			"static_" : true
-		},
-		"Transform" : {
-			"rotation_" : 0,
-			"scale_" : {
-				"g" : 140.10411071777344,
-				"r" : 138.677734375,
-				"s" : 138.677734375,
-				"t" : 140.10411071777344,
-				"x" : 138.677734375,
-				"y" : 140.10411071777344
-			},
-			"translation_" : {
-				"b" : 10,
-				"g" : 350.01235961914063,
-				"p" : 10,
-				"r" : 4442.48828125,
-				"s" : 4442.48828125,
-				"t" : 350.01235961914063,
-				"x" : 4442.48828125,
-				"y" : 350.01235961914063,
-				"z" : 10
-			}
-		},
-		"mName" : "CollisionBox"
-	},
-	"CollisionBox11101000" : {
+	"CollisionBox100000" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 40,
@@ -939,7 +689,7 @@
 		},
 		"mName" : "CollisionBox"
 	},
-	"CollisionBox11101001" : {
+	"CollisionBox100001" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 30,
@@ -989,7 +739,7 @@
 		},
 		"mName" : "CollisionBox"
 	},
-	"CollisionBox11101010" : {
+	"CollisionBox100010" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 40,
@@ -1039,7 +789,7 @@
 		},
 		"mName" : "CollisionBox"
 	},
-	"CollisionBox11101011" : {
+	"CollisionBox100011" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 20,
@@ -1089,7 +839,7 @@
 		},
 		"mName" : "CollisionBox"
 	},
-	"CollisionBox11101100" : {
+	"CollisionBox100100" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 40,
@@ -1142,7 +892,7 @@
 		},
 		"mName" : "CollisionBox"
 	},
-	"CollisionBox11101101" : {
+	"CollisionBox100101" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 20,
@@ -1192,7 +942,7 @@
 		},
 		"mName" : "CollisionBox"
 	},
-	"CollisionBox11101110" : {
+	"CollisionBox100110" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 100,
@@ -1242,7 +992,257 @@
 		},
 		"mName" : "CollisionBox"
 	},
-	"Dropped Object100000000" : {
+	"CollisionBox11011" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 20,
+				"r" : 290,
+				"s" : 290,
+				"t" : 20,
+				"x" : 290,
+				"y" : 20
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 149.22616577148438,
+				"r" : 161.96539306640625,
+				"s" : 161.96539306640625,
+				"t" : 149.22616577148438,
+				"x" : 161.96539306640625,
+				"y" : 149.22616577148438
+			},
+			"translation_" : {
+				"b" : 5,
+				"g" : -128.70111083984375,
+				"p" : 5,
+				"r" : 1739.677978515625,
+				"s" : 1739.677978515625,
+				"t" : -128.70111083984375,
+				"x" : 1739.677978515625,
+				"y" : -128.70111083984375,
+				"z" : 5
+			}
+		},
+		"mName" : "CollisionBox"
+	},
+	"CollisionBox11100" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 20,
+				"r" : 260,
+				"s" : 260,
+				"t" : 20,
+				"x" : 260,
+				"y" : 20
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 140.10411071777344,
+				"r" : 138.677734375,
+				"s" : 138.677734375,
+				"t" : 140.10411071777344,
+				"x" : 138.677734375,
+				"y" : 140.10411071777344
+			},
+			"translation_" : {
+				"b" : 5,
+				"g" : -273.8487548828125,
+				"p" : 5,
+				"r" : 3308.106201171875,
+				"s" : 3308.106201171875,
+				"t" : -273.8487548828125,
+				"x" : 3308.106201171875,
+				"y" : -273.8487548828125,
+				"z" : 5
+			}
+		},
+		"mName" : "CollisionBox"
+	},
+	"CollisionBox11101" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 20,
+				"r" : 260,
+				"s" : 260,
+				"t" : 20,
+				"x" : 260,
+				"y" : 20
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 140.10411071777344,
+				"r" : 138.677734375,
+				"s" : 138.677734375,
+				"t" : 140.10411071777344,
+				"x" : 138.677734375,
+				"y" : 140.10411071777344
+			},
+			"translation_" : {
+				"b" : 5,
+				"g" : 106.65083312988281,
+				"p" : 5,
+				"r" : 2575.588134765625,
+				"s" : 2575.588134765625,
+				"t" : 106.65083312988281,
+				"x" : 2575.588134765625,
+				"y" : 106.65083312988281,
+				"z" : 5
+			}
+		},
+		"mName" : "CollisionBox"
+	},
+	"CollisionBox11110" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 30,
+				"r" : 260,
+				"s" : 260,
+				"t" : 30,
+				"x" : 260,
+				"y" : 30
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 140.10411071777344,
+				"r" : 138.677734375,
+				"s" : 138.677734375,
+				"t" : 140.10411071777344,
+				"x" : 138.677734375,
+				"y" : 140.10411071777344
+			},
+			"translation_" : {
+				"b" : 10,
+				"g" : 144.07080078125,
+				"p" : 10,
+				"r" : 3257.06298828125,
+				"s" : 3257.06298828125,
+				"t" : 144.07080078125,
+				"x" : 3257.06298828125,
+				"y" : 144.07080078125,
+				"z" : 10
+			}
+		},
+		"mName" : "CollisionBox"
+	},
+	"CollisionBox11111" : {
+		"BoxColliderComp" : {
+			"collider_scale_" : {
+				"g" : 30,
+				"r" : 260,
+				"s" : 260,
+				"t" : 30,
+				"x" : 260,
+				"y" : 30
+			},
+			"offset_from_obj" : {
+				"b" : 0,
+				"g" : 0,
+				"p" : 0,
+				"r" : 0,
+				"s" : 0,
+				"t" : 0,
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+			}
+		},
+		"RigidBody" : {
+			"hasGravity_" : false,
+			"static_" : true
+		},
+		"Transform" : {
+			"rotation_" : 0,
+			"scale_" : {
+				"g" : 140.10411071777344,
+				"r" : 138.677734375,
+				"s" : 138.677734375,
+				"t" : 140.10411071777344,
+				"x" : 138.677734375,
+				"y" : 140.10411071777344
+			},
+			"translation_" : {
+				"b" : 10,
+				"g" : 350.01235961914063,
+				"p" : 10,
+				"r" : 4442.48828125,
+				"s" : 4442.48828125,
+				"t" : 350.01235961914063,
+				"x" : 4442.48828125,
+				"y" : 350.01235961914063,
+				"z" : 10
+			}
+		},
+		"mName" : "CollisionBox"
+	},
+	"Dropped Object100111" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -1288,7 +1288,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object100000001" : {
+	"Dropped Object101000" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -1334,7 +1334,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object100000010" : {
+	"Dropped Object101001" : {
 		"Lua Components" : {
 			"LevelClouds" : {
 				"Target" : {
@@ -1416,7 +1416,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object100000011" : {
+	"Dropped Object101010" : {
 		"Lua Components" : {
 			"LevelClouds" : {
 				"Target" : {
@@ -1498,7 +1498,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object100000100" : {
+	"Dropped Object101011" : {
 		"Transform" : {
 			"rotation_" : 0,
 			"scale_" : {
@@ -1523,7 +1523,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11101111" : {
+	"Dropped Object101100" : {
 		"Lua Components" : {
 			"LevelClouds" : {
 				"Target" : {
@@ -1605,7 +1605,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11110000" : {
+	"Dropped Object101101" : {
 		"Lua Components" : {
 			"LevelClouds" : {
 				"Target" : {
@@ -1687,7 +1687,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11110001" : {
+	"Dropped Object101110" : {
 		"Lua Components" : {
 			"LevelRocks" : {
 				"Target" : {
@@ -1769,7 +1769,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11110010" : {
+	"Dropped Object101111" : {
 		"Lua Components" : {
 			"LevelRocks" : {
 				"Target" : {
@@ -1851,7 +1851,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11110011" : {
+	"Dropped Object110000" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -1897,7 +1897,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11110100" : {
+	"Dropped Object110001" : {
 		"Lua Components" : {
 			"LevelClouds" : {
 				"Target" : {
@@ -1979,7 +1979,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11110101" : {
+	"Dropped Object110010" : {
 		"Lua Components" : {
 			"LevelClouds" : {
 				"Target" : {
@@ -2061,7 +2061,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11110110" : {
+	"Dropped Object110011" : {
 		"Lua Components" : {
 			"LevelRocks" : {
 				"Target" : {
@@ -2143,7 +2143,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11110111" : {
+	"Dropped Object110100" : {
 		"Lua Components" : {
 			"LevelRocks" : {
 				"Target" : {
@@ -2225,7 +2225,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11111000" : {
+	"Dropped Object110101" : {
 		"Lua Components" : {
 			"LevelClouds" : {
 				"Target" : {
@@ -2307,7 +2307,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11111001" : {
+	"Dropped Object110110" : {
 		"Lua Components" : {
 			"LevelRocks" : {
 				"Target" : {
@@ -2389,7 +2389,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11111010" : {
+	"Dropped Object110111" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -2435,7 +2435,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11111011" : {
+	"Dropped Object111000" : {
 		"Lua Components" : {
 			"LevelRocks" : {
 				"Target" : {
@@ -2517,7 +2517,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11111100" : {
+	"Dropped Object111001" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -2563,7 +2563,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11111101" : {
+	"Dropped Object111010" : {
 		"Lua Components" : {
 			"LevelRocks" : {
 				"Target" : {
@@ -2645,7 +2645,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11111110" : {
+	"Dropped Object111011" : {
 		"Lua Components" : {
 			"LevelClouds" : {
 				"Target" : {
@@ -2727,7 +2727,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Dropped Object11111111" : {
+	"Dropped Object111100" : {
 		"Lua Components" : {
 			"LevelClouds" : {
 				"Target" : {
@@ -2809,7 +2809,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"Fir Tree100000101" : {
+	"Fir Tree111101" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -2855,7 +2855,7 @@
 		},
 		"mName" : "Fir Tree"
 	},
-	"Fir Tree100000110" : {
+	"Fir Tree111110" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -2901,7 +2901,7 @@
 		},
 		"mName" : "Fir Tree"
 	},
-	"Fir Tree100000111" : {
+	"Fir Tree111111" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -2947,7 +2947,7 @@
 		},
 		"mName" : "Fir Tree"
 	},
-	"Ground100001000" : {
+	"Ground1000000" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -2993,7 +2993,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100001001" : {
+	"Ground1000001" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -3039,7 +3039,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100001010" : {
+	"Ground1000010" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -3085,7 +3085,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100001011" : {
+	"Ground1000011" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 40,
@@ -3156,7 +3156,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100001100" : {
+	"Ground1000100" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -3202,7 +3202,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100001101" : {
+	"Ground1000101" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 40,
@@ -3276,7 +3276,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100001110" : {
+	"Ground1000110" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 40,
@@ -3347,7 +3347,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100001111" : {
+	"Ground1000111" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -3393,7 +3393,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100010000" : {
+	"Ground1001000" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -3439,7 +3439,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100010001" : {
+	"Ground1001001" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 40,
@@ -3510,7 +3510,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100010010" : {
+	"Ground1001010" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 40,
@@ -3581,7 +3581,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100010011" : {
+	"Ground1001011" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -3627,7 +3627,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100010100" : {
+	"Ground1001100" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -3673,7 +3673,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100010101" : {
+	"Ground1001101" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -3719,7 +3719,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100010110" : {
+	"Ground1001110" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 40,
@@ -3790,7 +3790,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100010111" : {
+	"Ground1001111" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -3836,7 +3836,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100011000" : {
+	"Ground1010000" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -3882,7 +3882,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100011001" : {
+	"Ground1010001" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -3928,7 +3928,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100011010" : {
+	"Ground1010010" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -3974,7 +3974,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100011011" : {
+	"Ground1010011" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -4020,7 +4020,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100011100" : {
+	"Ground1010100" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 40,
@@ -4091,7 +4091,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100011101" : {
+	"Ground1010101" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 40,
@@ -4162,7 +4162,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100011110" : {
+	"Ground1010110" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 40,
@@ -4233,7 +4233,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100011111" : {
+	"Ground1010111" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 40,
@@ -4304,7 +4304,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Ground100100000" : {
+	"Ground1011000" : {
 		"BoxColliderComp" : {
 			"collider_scale_" : {
 				"g" : 40,
@@ -4375,7 +4375,7 @@
 		},
 		"mName" : "Ground"
 	},
-	"Island1100100001" : {
+	"Island11011001" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -4421,7 +4421,7 @@
 		},
 		"mName" : "Island1"
 	},
-	"Island2100100010" : {
+	"Island21011010" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -4467,7 +4467,7 @@
 		},
 		"mName" : "Island2"
 	},
-	"Island3100100011" : {
+	"Island31011011" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -4513,7 +4513,7 @@
 		},
 		"mName" : "Island3"
 	},
-	"Island3100100100" : {
+	"Island31011100" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -4559,7 +4559,7 @@
 		},
 		"mName" : "Island3"
 	},
-	"Mountains100100101" : {
+	"Mountains1011101" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -4605,7 +4605,7 @@
 		},
 		"mName" : "Mountains"
 	},
-	"Mountains100100110" : {
+	"Mountains1011110" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -4651,7 +4651,7 @@
 		},
 		"mName" : "Mountains"
 	},
-	"Pillar100100111" : {
+	"Pillar1011111" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -4697,7 +4697,7 @@
 		},
 		"mName" : "Pillar"
 	},
-	"SKy100101000" : {
+	"SKy1100000" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -4743,7 +4743,7 @@
 		},
 		"mName" : "SKy"
 	},
-	"Square100101001" : {
+	"Square1100001" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -4789,7 +4789,7 @@
 		},
 		"mName" : "Square"
 	},
-	"Square100101010" : {
+	"Square1100010" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -4835,7 +4835,7 @@
 		},
 		"mName" : "Square"
 	},
-	"Square100101011" : {
+	"Square1100011" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -4881,7 +4881,7 @@
 		},
 		"mName" : "Square"
 	},
-	"Square100101100" : {
+	"Square1100100" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -4927,7 +4927,7 @@
 		},
 		"mName" : "Square"
 	},
-	"Square100101101" : {
+	"Square1100101" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -4973,7 +4973,7 @@
 		},
 		"mName" : "Square"
 	},
-	"Square100101110" : {
+	"Square1100110" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -5019,7 +5019,7 @@
 		},
 		"mName" : "Square"
 	},
-	"Square100101111" : {
+	"Square1100111" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -5065,7 +5065,7 @@
 		},
 		"mName" : "Square"
 	},
-	"Square100110000" : {
+	"Square1101000" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -5112,7 +5112,7 @@
 		"mName" : "Square"
 	},
 	"mName" : "Olympus",
-	"round100110001" : {
+	"round1101001" : {
 		"Lua Components" : {
 			"LightUpDown" : {}
 		},

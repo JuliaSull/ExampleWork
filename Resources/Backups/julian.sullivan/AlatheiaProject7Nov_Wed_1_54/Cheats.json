@@ -1,7 +1,0 @@
-{
-	"Cheat" : {
-		"Code" : "E",
-		"Command" : "Aubergine.Space:FindChild(\"Alatheia\").RigidBody:SetVelocityY(50)",
-		"Name" : "SUPERJump"
-	}
-}

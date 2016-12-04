@@ -1,7 +1,0 @@
-{
-	"Cheat" : {
-		"Code" : "C",
-		"Command" : "Aubergine:PushUserMessage(\"Test1\") Aubergine:PushUserMessage(\"Test2\") Aubergine:PushUserMessage(\"Test3\")",
-		"Name" : "Messages"
-	}
-}

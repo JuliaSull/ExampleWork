@@ -1,6 +1,5 @@
 {
-	"AAABack011011000101" : {
-		"Lua Components" : {},
+	"AAABack01101001000" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -46,8 +45,7 @@
 		},
 		"mName" : "AAABack01"
 	},
-	"AAABack021011000110" : {
-		"Lua Components" : {},
+	"AAABack02101001001" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -93,8 +91,7 @@
 		},
 		"mName" : "AAABack02"
 	},
-	"AAABack031011000111" : {
-		"Lua Components" : {},
+	"AAABack03101001010" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -140,8 +137,7 @@
 		},
 		"mName" : "AAABack03"
 	},
-	"AAABack041011001000" : {
-		"Lua Components" : {},
+	"AAABack04101001011" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -187,7 +183,7 @@
 		},
 		"mName" : "AAABack04"
 	},
-	"Alatheia1011001001" : {
+	"Alatheia101001100" : {
 		"Lua Components" : {
 			"MainMenuAlatheia" : {
 				"Target" : {
@@ -248,7 +244,7 @@
 		},
 		"mName" : "Alatheia"
 	},
-	"BackCloud1011001010" : {
+	"BackCloud101001101" : {
 		"Lua Components" : {
 			"FloatyCloud" : {}
 		},
@@ -297,7 +293,7 @@
 		},
 		"mName" : "BackCloud"
 	},
-	"BackCloud1011001011" : {
+	"BackCloud101001110" : {
 		"Lua Components" : {
 			"FloatyCloud" : {}
 		},
@@ -346,7 +342,7 @@
 		},
 		"mName" : "BackCloud"
 	},
-	"BackCloud1011001100" : {
+	"BackCloud101001111" : {
 		"Lua Components" : {
 			"FloatyCloud" : {}
 		},
@@ -395,7 +391,7 @@
 		},
 		"mName" : "BackCloud"
 	},
-	"BackcloudBig1011001101" : {
+	"BackcloudBig101010000" : {
 		"Lua Components" : {
 			"FloatyCloud" : {}
 		},
@@ -444,8 +440,7 @@
 		},
 		"mName" : "BackcloudBig"
 	},
-	"CenterScreen1011001110" : {
-		"Lua Components" : {},
+	"CenterScreen101010001" : {
 		"SoundEmitter" : {},
 		"Transform" : {
 			"rotation_" : 0,
@@ -471,7 +466,7 @@
 		},
 		"mName" : "CenterScreen"
 	},
-	"Cloud1011001111" : {
+	"Cloud101010010" : {
 		"Lua Components" : {
 			"FloatyCloud" : {}
 		},
@@ -520,7 +515,7 @@
 		},
 		"mName" : "Cloud"
 	},
-	"Default1011010000" : {
+	"Default101010011" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -563,7 +558,7 @@
 		},
 		"mName" : "Default"
 	},
-	"Dropped Object1011010001" : {
+	"Dropped Object101010100" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -609,7 +604,7 @@
 		},
 		"mName" : "Dropped Object"
 	},
-	"ExitText1011010010" : {
+	"ExitText101010101" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -652,7 +647,7 @@
 		},
 		"mName" : "ExitText"
 	},
-	"FloatyRock1011010011" : {
+	"FloatyRock101010110" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -701,7 +696,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock1011010100" : {
+	"FloatyRock101010111" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -750,7 +745,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock1011010101" : {
+	"FloatyRock101011000" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -799,7 +794,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock1011010110" : {
+	"FloatyRock101011001" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -848,7 +843,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock1011010111" : {
+	"FloatyRock101011010" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -876,7 +871,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock1011011000" : {
+	"FloatyRock101011011" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -922,7 +917,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock1011011001" : {
+	"FloatyRock101011100" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -971,7 +966,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock1011011010" : {
+	"FloatyRock101011101" : {
 		"Sprite" : {
 			"color" : {
 				"a" : 1,
@@ -1017,7 +1012,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock1011011011" : {
+	"FloatyRock101011110" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -1066,7 +1061,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock1011011100" : {
+	"FloatyRock101011111" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -1115,7 +1110,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock1011011101" : {
+	"FloatyRock101100000" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -1164,7 +1159,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FloatyRock1011011110" : {
+	"FloatyRock101100001" : {
 		"Lua Components" : {
 			"FloatyRock" : {}
 		},
@@ -1213,7 +1208,7 @@
 		},
 		"mName" : "FloatyRock"
 	},
-	"FrontCloudBig1011011111" : {
+	"FrontCloudBig101100010" : {
 		"Lua Components" : {
 			"FloatyCloud" : {}
 		},
@@ -1262,7 +1257,7 @@
 		},
 		"mName" : "FrontCloudBig"
 	},
-	"How To PlayText1011100000" : {
+	"How To PlayText101100011" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,
@@ -1305,7 +1300,7 @@
 		},
 		"mName" : "How To PlayText"
 	},
-	"Main Menu1011100001" : {
+	"Main Menu101100100" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {
@@ -1420,7 +1415,7 @@
 		},
 		"mName" : "Main Menu"
 	},
-	"MidCloudBig1011100010" : {
+	"MidCloudBig101100101" : {
 		"Lua Components" : {
 			"FloatyCloud" : {}
 		},
@@ -1469,7 +1464,7 @@
 		},
 		"mName" : "MidCloudBig"
 	},
-	"Play Button1011100011" : {
+	"Play Button101100110" : {
 		"SoundEmitter" : {},
 		"SpriteText" : {
 			"Color" : {
@@ -1513,7 +1508,7 @@
 		},
 		"mName" : "Play Button"
 	},
-	"Play Button1011100100" : {
+	"Play Button101100111" : {
 		"SoundEmitter" : {},
 		"SpriteText" : {
 			"Color" : {
@@ -1557,7 +1552,7 @@
 		},
 		"mName" : "Play Button"
 	},
-	"Play Button1011100101" : {
+	"Play Button101101000" : {
 		"SoundEmitter" : {},
 		"SpriteText" : {
 			"Color" : {
@@ -1601,7 +1596,7 @@
 		},
 		"mName" : "Play Button"
 	},
-	"Play Button1011100110" : {
+	"Play Button101101001" : {
 		"Lua Components" : {
 			"ButtonComponent" : {
 				"CameraSpeed" : {
@@ -1716,7 +1711,7 @@
 		},
 		"mName" : "Play Button"
 	},
-	"Play Button1011100111" : {
+	"Play Button101101010" : {
 		"ButtonComponent" : {
 			"closesGame_" : false,
 			"downFile_" : "Button_Down.png",
@@ -1772,7 +1767,7 @@
 		},
 		"mName" : "Play Button"
 	},
-	"Play Button1011101000" : {
+	"Play Button101101011" : {
 		"ButtonComponent" : {
 			"closesGame_" : true,
 			"downFile_" : "Button_Down.png",
@@ -1828,7 +1823,7 @@
 		},
 		"mName" : "Play Button"
 	},
-	"PlayText1011101001" : {
+	"PlayText101101100" : {
 		"SpriteText" : {
 			"Color" : {
 				"a" : 1,

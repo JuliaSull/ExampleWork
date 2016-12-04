@@ -1,0 +1,25 @@
+Sat Dec  3 22:20:41 2016
+Log file started. 
+CPU Cores: 4
+CPU Architecture: x86
+System RAM: 3712688128 bytes
+GPU: ATI Technologies Inc. AMD Radeon HD 6530D
+OpenGL Version: 4.1.13399 Core Profile Context 15.200.1062.1003
+Shader Language VersionL 4.40
+Primary Display is 1920x1080 at 60hz.
+System has 1 connected display(s)
+
+This system does not support: ALPHA BYTE INSTRUCTIONS
+This system does not support: ARM 64BIT LOADSTORE ATOMIC
+This system does not support: ARM DIVIDE INSTRUCTION
+This system does not support: ARM EXTERNAL CACHE
+This system does not support: ARM FMAC INSTRUCTIONS
+This system does not support: ARM VFP 32 REGISTERS
+This system does not support: CHANNELS
+This system does not support: FASTFAIL
+This system does not support: RDWRFSGSBASE
+This system does not support: SECOND LEVEL ADDRESS TRANSLATION
+This system does not support: VIRT FIRMWARE
+This system does not support: XSAVE
+
+
